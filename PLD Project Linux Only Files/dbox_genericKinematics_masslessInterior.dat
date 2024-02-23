@@ -1,0 +1,350 @@
+codim: 3, face: 226/421, weights: [-1, 0, -1, 0, -1, -1, -1], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 3, face: 227/421, weights: [-1, 2, 1, 1, 0, 0, 1], discriminant: 1
+codim: 3, face: 228/421, weights: [0, 2, 1, 1, 0, 0, 2], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 229/421, weights: [0, 2, 1, 2, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 230/421, weights: [-1, 1, 0, 0, -1, -1, 0], discriminant: 1
+codim: 3, face: 231/421, weights: [0, 1, 0, 1, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 232/421, weights: [0, 2, 1, 1, 0, 1, 1], discriminant: 1
+codim: 3, face: 233/421, weights: [-1, 0, -1, -1, -2, -1, -1], discriminant: m3
+codim: 3, face: 234/421, weights: [0, 1, 0, 0, -1, 1, 0], discriminant: m3
+codim: 3, face: 235/421, weights: [0, 2, 1, 1, -1, 0, 1], discriminant: 1
+codim: 3, face: 236/421, weights: [0, 1, 0, 0, -1, 0, 1], discriminant: m3
+codim: 3, face: 237/421, weights: [0, 1, 0, 1, -1, 0, 0], discriminant: m3
+codim: 3, face: 238/421, weights: [-1, -1, -2, -1, -2, -1, -1], discriminant: 1
+codim: 3, face: 239/421, weights: [0, 0, -1, 0, -1, 0, 1], discriminant: 1
+codim: 3, face: 240/421, weights: [0, 0, -1, 0, -1, 1, 0], discriminant: 1
+codim: 3, face: 241/421, weights: [0, 0, -1, 1, -1, 0, 0], discriminant: 1
+codim: 3, face: 242/421, weights: [0, 1, -1, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 243/421, weights: [0, 1, 0, 1, 1, 0, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 3, face: 244/421, weights: [0, 2, 1, 1, 1, 0, 1], discriminant: 1
+codim: 3, face: 245/421, weights: [-1, 0, -1, -1, -1, -2, -1], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 246/421, weights: [0, 1, 0, 0, 1, -1, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 247/421, weights: [0, 2, 1, 1, 0, -1, 1], discriminant: 1
+codim: 3, face: 248/421, weights: [0, 1, 0, 0, 0, -1, 1], discriminant: m3
+codim: 3, face: 249/421, weights: [0, 1, 0, 1, 0, -1, 0], discriminant: s
+codim: 3, face: 250/421, weights: [-1, -1, -2, -1, -1, -2, -1], discriminant: 1
+codim: 3, face: 251/421, weights: [0, 0, -1, 0, 0, -1, 1], discriminant: 1
+codim: 3, face: 252/421, weights: [0, 0, -1, 0, 1, -1, 0], discriminant: 1
+codim: 3, face: 253/421, weights: [0, 0, -1, 1, 0, -1, 0], discriminant: 1
+codim: 3, face: 254/421, weights: [0, 1, -1, 0, 0, -1, 0], discriminant: 1
+codim: 3, face: 255/421, weights: [-2, 0, 0, 0, 0, 0, -2], discriminant: 1
+codim: 3, face: 256/421, weights: [-2, -2, -1, -1, -1, -1, -3], discriminant: 1
+codim: 3, face: 257/421, weights: [-1, 0, -1, -1, -1, -1, -2], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 3, face: 258/421, weights: [-1, -1, 0, 0, 0, 1, -2], discriminant: 1
+codim: 3, face: 259/421, weights: [0, 1, 0, 0, 0, 1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 260/421, weights: [-1, -1, -1, -1, -1, 0, -2], discriminant: m3, m2
+codim: 3, face: 261/421, weights: [-1, -1, 0, 0, 1, 0, -2], discriminant: 1
+codim: 3, face: 262/421, weights: [0, 1, 0, 0, 1, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 263/421, weights: [-1, -1, -1, -1, 0, -1, -2], discriminant: 1
+codim: 3, face: 264/421, weights: [0, 0, 0, 0, 1, 1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 265/421, weights: [-1, -1, 0, 1, 0, 0, -2], discriminant: 1
+codim: 3, face: 266/421, weights: [0, 1, 0, 1, 0, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 267/421, weights: [-1, -1, -1, 0, -1, -1, -2], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 3, face: 268/421, weights: [0, 0, 0, 1, 0, 1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 269/421, weights: [0, 0, 0, 1, 1, 0, -1], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 3, face: 270/421, weights: [-1, -1, -2, -1, -1, -1, -2], discriminant: 1
+codim: 3, face: 271/421, weights: [0, 0, -1, 0, 0, 1, -1], discriminant: 1
+codim: 3, face: 272/421, weights: [0, 0, -1, 0, 1, 0, -1], discriminant: 1
+codim: 3, face: 273/421, weights: [0, 0, -1, 1, 0, 0, -1], discriminant: 1
+codim: 3, face: 274/421, weights: [0, 1, -1, 0, 0, 0, -1], discriminant: 1
+codim: 3, face: 275/421, weights: [1, 3, 2, 2, 1, 1, 2], discriminant: 1
+codim: 3, face: 276/421, weights: [1, 2, 1, 1, 1, 2, 1], discriminant: 1
+codim: 3, face: 277/421, weights: [1, 2, 1, 1, 2, 1, 1], discriminant: 1
+codim: 3, face: 278/421, weights: [2, 2, 1, 1, 2, 2, 2], discriminant: 1
+codim: 3, face: 279/421, weights: [1, 2, 1, 2, 1, 1, 1], discriminant: 1
+codim: 3, face: 280/421, weights: [-1, 1, 1, 0, 0, 0, 0], discriminant: t
+codim: 3, face: 281/421, weights: [0, 1, 1, -1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 282/421, weights: [-1, 0, 0, -1, -1, -1, -1], discriminant: m1
+codim: 3, face: 283/421, weights: [0, 2, 2, 1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 284/421, weights: [0, 1, 1, 0, 0, 1, 0], discriminant: 1
+codim: 3, face: 285/421, weights: [-1, -1, -1, -2, -2, 0, -2], discriminant: 1
+codim: 3, face: 286/421, weights: [-1, -1, 0, -2, -2, -1, -2], discriminant: 1
+codim: 3, face: 287/421, weights: [0, 0, 1, -1, -1, 1, -1], discriminant: 1
+codim: 3, face: 288/421, weights: [-1, 0, -1, -2, -2, -1, -2], discriminant: 1
+codim: 3, face: 289/421, weights: [0, 1, 0, -1, -1, 1, -1], discriminant: 1
+codim: 3, face: 290/421, weights: [0, 1, 1, -1, -1, 0, -1], discriminant: 1
+codim: 3, face: 291/421, weights: [-1, -1, -1, -3, -2, -1, -2], discriminant: 1
+codim: 3, face: 292/421, weights: [0, 0, 0, -2, -1, 1, -1], discriminant: 1
+codim: 3, face: 293/421, weights: [0, 0, 1, -2, -1, 0, -1], discriminant: 1
+codim: 3, face: 294/421, weights: [0, 1, 0, -2, -1, 0, -1], discriminant: 1
+codim: 3, face: 295/421, weights: [-1, -1, -1, -2, -3, -1, -2], discriminant: 1
+codim: 3, face: 296/421, weights: [0, 0, 0, -1, -2, 1, -1], discriminant: 1
+codim: 3, face: 297/421, weights: [0, 0, 1, -1, -2, 0, -1], discriminant: 1
+codim: 3, face: 298/421, weights: [0, 1, 0, -1, -2, 0, -1], discriminant: 1
+codim: 3, face: 299/421, weights: [0, 0, 0, -2, -2, 0, 0], discriminant: 1
+codim: 3, face: 300/421, weights: [0, 1, 1, 0, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 301/421, weights: [0, 1, 1, 0, 0, -1, 0], discriminant: m4
+codim: 3, face: 302/421, weights: [-1, -1, -1, -2, -1, -2, -1], discriminant: 1
+codim: 3, face: 303/421, weights: [0, 0, 0, -1, 0, -1, 1], discriminant: 1
+codim: 3, face: 304/421, weights: [0, 0, 0, -1, 1, -1, 0], discriminant: 1
+codim: 3, face: 305/421, weights: [0, 0, 1, -1, 0, -1, 0], discriminant: 1
+codim: 3, face: 306/421, weights: [0, 1, 0, -1, 0, -1, 0], discriminant: 1
+codim: 3, face: 307/421, weights: [-1, -1, 1, 0, 0, 0, -2], discriminant: 1
+codim: 3, face: 308/421, weights: [0, 1, 1, 0, 0, 0, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 309/421, weights: [-1, -1, 0, -1, -1, -1, -2], discriminant: m1, m4
+codim: 3, face: 310/421, weights: [0, 0, 1, 0, 0, 1, -1], discriminant: 1
+codim: 3, face: 311/421, weights: [-1, -1, -1, -2, -2, -1, -3], discriminant: 1
+codim: 3, face: 312/421, weights: [0, 0, 0, -1, -1, 1, -2], discriminant: 1
+codim: 3, face: 313/421, weights: [0, 0, 1, -1, -1, 0, -2], discriminant: 1
+codim: 3, face: 314/421, weights: [0, 1, 0, -1, -1, 0, -2], discriminant: 1
+codim: 3, face: 315/421, weights: [0, 0, 1, 0, 1, 0, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 316/421, weights: [0, 0, 0, -2, 0, 0, -2], discriminant: 1
+codim: 3, face: 317/421, weights: [1, 2, 2, 1, 1, 1, 1], discriminant: 1
+codim: 3, face: 318/421, weights: [0, 0, 1, 1, 0, 0, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 319/421, weights: [0, 0, 0, 0, -2, 0, -2], discriminant: 1
+codim: 3, face: 320/421, weights: [-1, -1, -1, -1, -1, -2, -2], discriminant: 1
+codim: 3, face: 321/421, weights: [0, 0, 0, 0, 1, -1, -1], discriminant: 1
+codim: 3, face: 322/421, weights: [0, 0, 0, 1, 0, -1, -1], discriminant: 1
+codim: 3, face: 323/421, weights: [0, 0, 1, 0, 0, -1, -1], discriminant: 1
+codim: 3, face: 324/421, weights: [0, 1, 0, 0, 0, -1, -1], discriminant: 1
+codim: 3, face: 325/421, weights: [1, 1, 1, 1, 1, 2, 0], discriminant: 1
+codim: 3, face: 326/421, weights: [1, 1, 1, 1, 2, 1, 0], discriminant: 1
+codim: 3, face: 327/421, weights: [1, 1, 1, 2, 1, 1, 0], discriminant: 1
+codim: 3, face: 328/421, weights: [1, 1, 2, 1, 1, 1, 0], discriminant: 1
+codim: 3, face: 329/421, weights: [1, 2, 1, 1, 1, 1, 0], discriminant: 1
+codim: 3, face: 330/421, weights: [0, -2, -1, -1, -1, -1, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 331/421, weights: [2, -1, 0, 0, 1, 1, 1], discriminant: 1
+codim: 3, face: 332/421, weights: [1, -1, -1, -1, 0, 0, 0], discriminant: 1
+codim: 3, face: 333/421, weights: [1, -1, 0, 1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 334/421, weights: [0, -1, -1, 0, -1, -1, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 335/421, weights: [2, 0, 0, 1, 1, 1, 1], discriminant: 1
+codim: 3, face: 336/421, weights: [0, -1, -2, -1, -1, -1, -1], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 337/421, weights: [2, 0, -1, 0, 1, 1, 1], discriminant: 1
+codim: 3, face: 338/421, weights: [1, 0, -1, 1, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 339/421, weights: [1, -1, 0, 0, 0, 0, 1], discriminant: m4
+codim: 3, face: 340/421, weights: [0, -1, -1, -1, -1, -1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, m4
+codim: 3, face: 341/421, weights: [2, 0, 0, 0, 1, 1, 2], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 342/421, weights: [1, 0, 0, 1, 0, 0, 1], discriminant: m4, m2
+codim: 3, face: 343/421, weights: [1, 0, -1, 0, 0, 0, 1], discriminant: m4
+codim: 3, face: 344/421, weights: [1, -1, 0, 0, 0, 1, 0], discriminant: t
+codim: 3, face: 345/421, weights: [0, -1, -1, -1, -1, 0, -1], discriminant: m2
+codim: 3, face: 346/421, weights: [2, 0, 0, 0, 1, 2, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 347/421, weights: [1, 0, 0, 1, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 348/421, weights: [1, 0, -1, 0, 0, 1, 0], discriminant: m3
+codim: 3, face: 349/421, weights: [1, -1, 0, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 350/421, weights: [0, -1, -1, -1, -2, -1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 351/421, weights: [1, 0, 0, 0, -1, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 352/421, weights: [1, 0, 0, 0, -1, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 353/421, weights: [1, 0, 0, 1, -1, 0, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 354/421, weights: [1, 0, -1, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 355/421, weights: [1, -1, 0, 0, 1, 0, 0], discriminant: m1
+codim: 3, face: 356/421, weights: [0, -1, -1, -1, 0, -1, -1], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 3, face: 357/421, weights: [2, 0, 0, 0, 2, 1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 358/421, weights: [1, 0, 0, 1, 1, 0, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 3, face: 359/421, weights: [1, 0, -1, 0, 1, 0, 0], discriminant: s
+codim: 3, face: 360/421, weights: [1, -1, 0, 0, 0, -1, 0], discriminant: 1
+codim: 3, face: 361/421, weights: [0, -1, -1, -1, -1, -2, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 362/421, weights: [1, 0, 0, 0, 0, -1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 363/421, weights: [1, 0, 0, 0, 1, -1, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 364/421, weights: [1, 0, 0, 1, 0, -1, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 3, face: 365/421, weights: [1, 0, -1, 0, 0, -1, 0], discriminant: 1
+codim: 3, face: 366/421, weights: [0, -2, 0, 0, 0, 0, -2], discriminant: 1
+codim: 3, face: 367/421, weights: [0, -1, -1, -1, -1, -1, -2], discriminant: 1
+codim: 3, face: 368/421, weights: [1, 0, 0, 0, 0, 1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 3, face: 369/421, weights: [1, 0, 0, 0, 1, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 370/421, weights: [1, 0, 0, 1, 0, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 3, face: 371/421, weights: [1, 0, -1, 0, 0, 0, -1], discriminant: 1
+codim: 3, face: 372/421, weights: [1, -1, 1, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 373/421, weights: [0, -1, 0, -1, -1, -1, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 374/421, weights: [2, 0, 1, 0, 1, 1, 1], discriminant: 1
+codim: 3, face: 375/421, weights: [0, -1, -1, -2, -1, -1, -1], discriminant: m4
+codim: 3, face: 376/421, weights: [2, 0, 0, -1, 1, 1, 1], discriminant: 1
+codim: 3, face: 377/421, weights: [1, 0, 1, -1, 0, 0, 0], discriminant: m4
+codim: 3, face: 378/421, weights: [1, 0, 1, 0, 0, 0, 1], discriminant: m4, t
+codim: 3, face: 379/421, weights: [1, 0, 0, -1, 0, 0, 1], discriminant: m4
+codim: 3, face: 380/421, weights: [1, 0, 1, 0, 0, 1, 0], discriminant: 1
+codim: 3, face: 381/421, weights: [0, -1, -1, -2, -2, -1, -2], discriminant: 1
+codim: 3, face: 382/421, weights: [1, 0, 0, -1, -1, 1, -1], discriminant: 1
+codim: 3, face: 383/421, weights: [1, 0, 1, -1, -1, 0, -1], discriminant: 1
+codim: 3, face: 384/421, weights: [1, 0, 0, -2, -1, 0, -1], discriminant: 1
+codim: 3, face: 385/421, weights: [1, 0, 1, 0, -1, 0, 0], discriminant: t
+codim: 3, face: 386/421, weights: [1, 0, 0, -1, -2, 0, -1], discriminant: 1
+codim: 3, face: 387/421, weights: [1, 0, 1, 0, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 388/421, weights: [1, 0, 0, -1, 1, 0, 0], discriminant: m4
+codim: 3, face: 389/421, weights: [1, 0, 1, 0, 0, -1, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 390/421, weights: [1, 0, 0, -1, 0, -1, 0], discriminant: 1
+codim: 3, face: 391/421, weights: [1, 0, 1, 0, 0, 0, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 392/421, weights: [1, 0, 0, -1, -1, 0, -2], discriminant: 1
+codim: 3, face: 393/421, weights: [1, 0, 1, 1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 3, face: 394/421, weights: [1, 1, 1, 1, 0, 0, 2], discriminant: 1
+codim: 3, face: 395/421, weights: [1, 1, 1, 2, 0, 0, 1], discriminant: 1
+codim: 3, face: 396/421, weights: [1, 1, 2, 1, 0, 0, 1], discriminant: 1
+codim: 3, face: 397/421, weights: [1, 1, 1, 1, -1, 0, 1], discriminant: 1
+codim: 3, face: 398/421, weights: [1, 1, 1, 1, 0, -1, 1], discriminant: 1
+codim: 3, face: 399/421, weights: [3, 1, 1, 1, 2, 2, 2], discriminant: 1
+codim: 3, face: 400/421, weights: [2, 1, 1, 2, 1, 1, 1], discriminant: 1
+codim: 3, face: 401/421, weights: [2, 1, 2, 1, 1, 1, 1], discriminant: 1
+codim: 3, face: 402/421, weights: [2, 2, 2, 2, 1, 1, 2], discriminant: 1
+codim: 3, face: 403/421, weights: [2, 1, 1, 1, 1, 2, 1], discriminant: 1
+codim: 3, face: 404/421, weights: [1, 0, 0, 0, 0, -1, -1], discriminant: 1
+codim: 3, face: 405/421, weights: [2, 1, 1, 1, 2, 1, 1], discriminant: 1
+codim: 3, face: 406/421, weights: [2, 1, 1, 1, 1, 1, 0], discriminant: 1
+codim: 3, face: 407/421, weights: [1, 1, -1, 0, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 408/421, weights: [0, 0, -1, -1, -1, -1, -1], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 409/421, weights: [2, 1, 0, 0, 1, 1, 1], discriminant: 1
+codim: 3, face: 410/421, weights: [1, 1, 0, -1, 0, 0, 0], discriminant: m4
+codim: 3, face: 411/421, weights: [1, 1, 0, 0, 0, 0, 1], discriminant: m3, m4
+codim: 3, face: 412/421, weights: [1, 1, 0, 0, 0, 1, 0], discriminant: 1
+codim: 3, face: 413/421, weights: [1, 1, 0, -1, -1, 0, -1], discriminant: 1
+codim: 3, face: 414/421, weights: [1, 1, 0, 0, -1, 0, 0], discriminant: m3
+codim: 3, face: 415/421, weights: [1, 1, 0, 0, 1, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 416/421, weights: [1, 1, 0, 0, 0, -1, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 417/421, weights: [1, 1, 0, 0, 0, 0, -1], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 418/421, weights: [1, 1, 0, 1, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 3, face: 419/421, weights: [1, 2, 1, 1, 0, 0, 1], discriminant: 1
+codim: 3, face: 420/421, weights: [2, 2, 1, 1, 1, 1, 1], discriminant: 1
+codim: 3, face: 421/421, weights: [1, 1, 1, 0, 0, 0, 0], discriminant: 1
+codim: 2, face: 1/133, weights: [-1, 0, 0, 0, 0, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 2/133, weights: [-2, -1, 0, 0, 0, 0, -1], discriminant: 1
+codim: 2, face: 3/133, weights: [0, -1, 0, 0, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 4/133, weights: [-1, -2, 0, 0, 0, 0, -1], discriminant: 1
+codim: 2, face: 5/133, weights: [-2, -1, -1, -1, -1, -1, -1], discriminant: 1
+codim: 2, face: 6/133, weights: [-1, -1, -1, -1, -1, -1, 0], discriminant: 1
+codim: 2, face: 7/133, weights: [-2, -2, -1, -1, -1, -1, -2], discriminant: 1
+codim: 2, face: 8/133, weights: [-1, -2, -1, -1, -1, -1, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 9/133, weights: [-1, 0, 0, 0, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 10/133, weights: [0, 0, 0, 0, 0, 1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, t
+codim: 2, face: 11/133, weights: [-1, -1, 0, 0, 0, 1, -1], discriminant: 1
+codim: 2, face: 12/133, weights: [0, -1, 0, 0, 0, 1, 0], discriminant: t
+codim: 2, face: 13/133, weights: [-1, -1, -1, -1, -1, 0, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 14/133, weights: [-1, 0, 0, 0, 1, 0, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 15/133, weights: [0, 0, 0, 0, 1, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, m1
+codim: 2, face: 16/133, weights: [-1, -1, 0, 0, 1, 0, -1], discriminant: 1
+codim: 2, face: 17/133, weights: [0, -1, 0, 0, 1, 0, 0], discriminant: m1
+codim: 2, face: 18/133, weights: [-1, -1, -1, -1, 0, -1, -1], discriminant: 1
+codim: 2, face: 19/133, weights: [0, 0, 0, 0, 1, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 20/133, weights: [1, 0, 0, 0, 1, 1, 2], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 21/133, weights: [1, 0, 0, 0, 1, 2, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 22/133, weights: [1, 0, 0, 0, 2, 1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 23/133, weights: [1, -1, 0, 0, 1, 1, 1], discriminant: 1
+codim: 2, face: 24/133, weights: [0, -1, -1, -1, 0, 0, 0], discriminant: 1
+codim: 2, face: 25/133, weights: [-1, 0, 0, 1, 0, 0, 0], discriminant: m2
+codim: 2, face: 26/133, weights: [0, 0, 0, 1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2, m2
+codim: 2, face: 27/133, weights: [-1, -1, 0, 1, 0, 0, -1], discriminant: 1
+codim: 2, face: 28/133, weights: [0, -1, 0, 1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 29/133, weights: [-1, -1, -1, 0, -1, -1, -1], discriminant: 1
+codim: 2, face: 30/133, weights: [0, 0, 0, 1, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 31/133, weights: [0, 0, 0, 1, 1, 0, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 2, face: 32/133, weights: [1, 0, 0, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 33/133, weights: [-1, 0, -1, 0, 0, 0, 0], discriminant: 1
+codim: 2, face: 34/133, weights: [-1, -1, -2, -1, -1, -1, -1], discriminant: 1
+codim: 2, face: 35/133, weights: [0, 0, -1, 0, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 36/133, weights: [0, 0, -1, 0, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 37/133, weights: [0, 0, -1, 0, 1, 0, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 2, face: 38/133, weights: [1, 0, -1, 0, 1, 1, 1], discriminant: 1
+codim: 2, face: 39/133, weights: [0, 0, -1, 1, 0, 0, 0], discriminant: 1
+codim: 2, face: 40/133, weights: [-1, 0, 1, 0, 0, 0, 0], discriminant: t
+codim: 2, face: 41/133, weights: [0, 0, 1, 0, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2, t
+codim: 2, face: 42/133, weights: [-1, -1, 1, 0, 0, 0, -1], discriminant: 1
+codim: 2, face: 43/133, weights: [0, -1, 1, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 44/133, weights: [-1, -1, 0, -1, -1, -1, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 45/133, weights: [0, 0, 1, 0, 0, 1, 0], discriminant: 1
+codim: 2, face: 46/133, weights: [0, 0, 1, 0, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 47/133, weights: [1, 0, 1, 0, 1, 1, 1], discriminant: 1
+codim: 2, face: 48/133, weights: [-1, 0, 0, -1, 0, 0, 0], discriminant: 1
+codim: 2, face: 49/133, weights: [-1, -1, -1, -2, -1, -1, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 50/133, weights: [0, 0, 0, -1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 51/133, weights: [0, 0, 0, -1, 0, 1, 0], discriminant: t
+codim: 2, face: 52/133, weights: [0, 0, 0, -1, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 53/133, weights: [1, 0, 0, -1, 1, 1, 1], discriminant: 1
+codim: 2, face: 54/133, weights: [0, 0, 1, -1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 55/133, weights: [-1, 1, 1, 1, 0, 0, 1], discriminant: 1
+codim: 2, face: 56/133, weights: [0, 1, 1, 1, 0, 0, 2], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 57/133, weights: [0, 1, 1, 2, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 58/133, weights: [0, 1, 2, 1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 59/133, weights: [0, 0, 1, 1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 60/133, weights: [-1, 0, 0, 0, -1, -1, 0], discriminant: 1
+codim: 2, face: 61/133, weights: [0, 1, 1, 1, 0, 1, 1], discriminant: 1
+codim: 2, face: 62/133, weights: [-1, -1, -1, -1, -2, -1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 63/133, weights: [0, 0, 0, 0, -1, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 64/133, weights: [0, 1, 1, 1, -1, 0, 1], discriminant: 1
+codim: 2, face: 65/133, weights: [0, 0, 0, 0, -1, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 66/133, weights: [0, 0, 0, 1, -1, 0, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 67/133, weights: [0, 0, 1, 0, -1, 0, 0], discriminant: t
+codim: 2, face: 68/133, weights: [0, -1, 0, 0, -1, 0, 0], discriminant: 1
+codim: 2, face: 69/133, weights: [0, 1, 1, 1, 1, 0, 1], discriminant: 1
+codim: 2, face: 70/133, weights: [-1, -1, -1, -1, -1, -2, -1], discriminant: 1
+codim: 2, face: 71/133, weights: [0, 0, 0, 0, 1, -1, 0], discriminant: 1
+codim: 2, face: 72/133, weights: [0, 1, 1, 1, 0, -1, 1], discriminant: 1
+codim: 2, face: 73/133, weights: [0, 0, 0, 0, 0, -1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 74/133, weights: [0, 0, 0, 1, 0, -1, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 2, face: 75/133, weights: [0, 0, 1, 0, 0, -1, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 76/133, weights: [0, -1, 0, 0, 0, -1, 0], discriminant: 1
+codim: 2, face: 77/133, weights: [1, 2, 2, 2, 1, 1, 2], discriminant: 1
+codim: 2, face: 78/133, weights: [1, 1, 1, 1, 1, 2, 1], discriminant: 1
+codim: 2, face: 79/133, weights: [1, 1, 1, 1, 2, 1, 1], discriminant: 1
+codim: 2, face: 80/133, weights: [2, 1, 1, 1, 2, 2, 2], discriminant: 1
+codim: 2, face: 81/133, weights: [1, 1, 1, 2, 1, 1, 1], discriminant: 1
+codim: 2, face: 82/133, weights: [1, 1, 2, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 83/133, weights: [-1, 1, 0, 0, 0, 0, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 84/133, weights: [0, 1, -1, 0, 0, 0, 0], discriminant: 1
+codim: 2, face: 85/133, weights: [-1, 0, -1, -1, -1, -1, -1], discriminant: 1
+codim: 2, face: 86/133, weights: [0, 1, 0, 0, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2, m3
+codim: 2, face: 87/133, weights: [0, 1, 0, 0, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 88/133, weights: [0, 1, 0, 0, 1, 0, 0], discriminant: 1
+codim: 2, face: 89/133, weights: [1, 1, 0, 0, 1, 1, 1], discriminant: 1
+codim: 2, face: 90/133, weights: [0, 1, 0, -1, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 91/133, weights: [0, 1, 0, 1, 0, 0, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 92/133, weights: [0, 2, 1, 1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 93/133, weights: [0, 1, 0, 0, -1, 0, 0], discriminant: m3
+codim: 2, face: 94/133, weights: [0, 0, -1, 0, -1, 0, 0], discriminant: 1
+codim: 2, face: 95/133, weights: [0, 1, 0, 0, 0, -1, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 2, face: 96/133, weights: [0, 0, -1, 0, 0, -1, 0], discriminant: 1
+codim: 2, face: 97/133, weights: [-1, -1, 0, 0, 0, 0, -2], discriminant: 1
+codim: 2, face: 98/133, weights: [0, 1, 0, 0, 0, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 99/133, weights: [-1, -1, -1, -1, -1, -1, -2], discriminant: 1
+codim: 2, face: 100/133, weights: [0, 0, 0, 0, 0, 1, -1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 101/133, weights: [0, 0, 0, 0, 1, 0, -1], discriminant: 1
+codim: 2, face: 102/133, weights: [0, 0, 0, 1, 0, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 103/133, weights: [0, 0, -1, 0, 0, 0, -1], discriminant: 1
+codim: 2, face: 104/133, weights: [1, 2, 1, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 105/133, weights: [0, 1, 1, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 106/133, weights: [-1, -1, -1, -2, -2, -1, -2], discriminant: 1
+codim: 2, face: 107/133, weights: [0, 0, 0, -1, -1, 1, -1], discriminant: 1
+codim: 2, face: 108/133, weights: [0, 0, 1, -1, -1, 0, -1], discriminant: 1
+codim: 2, face: 109/133, weights: [0, 1, 0, -1, -1, 0, -1], discriminant: 1
+codim: 2, face: 110/133, weights: [0, 0, 0, -2, -1, 0, -1], discriminant: 1
+codim: 2, face: 111/133, weights: [0, 0, 0, -1, -2, 0, -1], discriminant: 1
+codim: 2, face: 112/133, weights: [0, 0, 0, -1, 0, -1, 0], discriminant: 1
+codim: 2, face: 113/133, weights: [0, 0, 1, 0, 0, 0, -1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 114/133, weights: [0, 0, 0, -1, -1, 0, -2], discriminant: 1
+codim: 2, face: 115/133, weights: [0, 0, 0, 0, 0, -1, -1], discriminant: 1
+codim: 2, face: 116/133, weights: [1, 1, 1, 1, 1, 1, 0], discriminant: 1
+codim: 2, face: 117/133, weights: [1, -1, 0, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 118/133, weights: [0, -1, -1, -1, -1, -1, -1], discriminant: 1
+codim: 2, face: 119/133, weights: [2, 0, 0, 0, 1, 1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 120/133, weights: [1, 0, 0, 1, 0, 0, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 121/133, weights: [1, 0, -1, 0, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 2, face: 122/133, weights: [1, 0, 0, 0, 0, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, m4
+codim: 2, face: 123/133, weights: [1, 0, 0, 0, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2, m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 124/133, weights: [1, 0, 0, 0, -1, 0, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 2, face: 125/133, weights: [1, 0, 0, 0, 1, 0, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 126/133, weights: [1, 0, 0, 0, 0, -1, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 127/133, weights: [1, 0, 0, 0, 0, 0, -1], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 2, face: 128/133, weights: [1, 0, 1, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 2, face: 129/133, weights: [1, 0, 0, -1, 0, 0, 0], discriminant: m4
+codim: 2, face: 130/133, weights: [1, 0, 0, -1, -1, 0, -1], discriminant: 1
+codim: 2, face: 131/133, weights: [1, 1, 1, 1, 0, 0, 1], discriminant: 1
+codim: 2, face: 132/133, weights: [2, 1, 1, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 133/133, weights: [1, 1, 0, 0, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 1, face: 1/20, weights: [0, 0, 0, 0, 0, 0, 1], discriminant: 1
+codim: 1, face: 2/20, weights: [-1, 0, 0, 0, 0, 0, 0], discriminant: 1
+codim: 1, face: 3/20, weights: [-1, -1, 0, 0, 0, 0, -1], discriminant: 1
+codim: 1, face: 4/20, weights: [0, -1, 0, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 1, face: 5/20, weights: [-1, -1, -1, -1, -1, -1, -1], discriminant: 1
+codim: 1, face: 6/20, weights: [0, 0, 0, 0, 0, 1, 0], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 1, face: 7/20, weights: [0, 0, 0, 0, 1, 0, 0], discriminant: 1
+codim: 1, face: 8/20, weights: [1, 0, 0, 0, 1, 1, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 1, face: 9/20, weights: [0, 0, 0, 1, 0, 0, 0], discriminant: 1
+codim: 1, face: 10/20, weights: [0, 0, -1, 0, 0, 0, 0], discriminant: 1
+codim: 1, face: 11/20, weights: [0, 0, 1, 0, 0, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 1, face: 12/20, weights: [0, 0, 0, -1, 0, 0, 0], discriminant: 1
+codim: 1, face: 13/20, weights: [0, 1, 1, 1, 0, 0, 1], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 1, face: 14/20, weights: [0, 0, 0, 0, -1, 0, 0], discriminant: 1
+codim: 1, face: 15/20, weights: [0, 0, 0, 0, 0, -1, 0], discriminant: 1
+codim: 1, face: 16/20, weights: [1, 1, 1, 1, 1, 1, 1], discriminant: 1
+codim: 1, face: 17/20, weights: [0, 1, 0, 0, 0, 0, 0], discriminant: 1
+codim: 1, face: 18/20, weights: [0, 0, 0, 0, 0, 0, -1], discriminant: 1
+codim: 1, face: 19/20, weights: [0, 0, 0, -1, -1, 0, -1], discriminant: 1
+codim: 1, face: 20/20, weights: [1, 0, 0, 0, 0, 0, 0], discriminant: 1
+codim: 0, face: 1/1, weights: [0, 0, 0, 0, 0, 0, 0], discriminant: 1

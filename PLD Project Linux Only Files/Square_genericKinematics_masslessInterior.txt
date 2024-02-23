@@ -1,0 +1,13 @@
+Square_genericKinematics_masslessInterior
+
+edges: [[1, 2], [2, 3], [3, 4], [4, 1]]
+internal_masses: [0, 0, 0, 0]
+external_masses: Variable[m1, m2, m3, m4]
+
+schwinger parameters: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃, α₄]
+kinematic variables: QQMPolyRingElem[m1, m2, m3, m4, s, t]
+
+U: α₁ + α₂ + α₃ + α₄
+F: m2*α₁*α₂ + t*α₁*α₃ + m1*α₁*α₄ + m3*α₂*α₃ + s*α₂*α₄ + m4*α₃*α₄
+
+discriminants: Any[AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2], [1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2], [1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2], [1], [1], [1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2]]

@@ -1,0 +1,13 @@
+name = "PLD"
+uuid = "c1d09e2c-3546-4f07-a396-27af1e299779"
+authors = ["Claudia Fevola, Sebastian Mizera, Simon Telen"]
+version = "0.1.0"
+
+[deps]
+Arblib = "fb37089c-8514-4489-9461-98f9c8763369"
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+GenericSVD = "01680d73-4ee2-5a08-a1aa-533608c188bb"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

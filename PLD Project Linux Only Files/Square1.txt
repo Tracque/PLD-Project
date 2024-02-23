@@ -1,0 +1,22 @@
+codim: 1, face: 1/10, weights: [-1, -1, -1, -1], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 1, face: 2/10, weights: [-1, 0, 0, 0], discriminant: 1
+codim: 1, face: 3/10, weights: [0, 0, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 1, face: 4/10, weights: [0, 0, 1, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 1, face: 5/10, weights: [0, -1, 0, 0], discriminant: 1
+codim: 1, face: 6/10, weights: [0, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 1, face: 7/10, weights: [0, 0, -1, 0], discriminant: 1
+codim: 1, face: 8/10, weights: [0, 0, 0, -1], discriminant: 1
+codim: 1, face: 9/10, weights: [1, 1, 1, 1], discriminant: 1
+codim: 1, face: 10/10, weights: [1, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 0, face: 1/1, weights: [0, 0, 0, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
+codim: 1, face: 1/10, weights: [-1, -1, -1, -1], discriminant: m1^2*m3^2 - 2*m1*m2*m3*m4 - 2*m1*m3*s*t + m2^2*m4^2 - 2*m2*m4*s*t + s^2*t^2
+codim: 1, face: 2/10, weights: [-1, 0, 0, 0], discriminant: 1
+codim: 1, face: 3/10, weights: [0, 0, 0, 1], discriminant: m2^2 - 2*m2*m3 - 2*m2*t + m3^2 - 2*m3*t + t^2
+codim: 1, face: 4/10, weights: [0, 0, 1, 0], discriminant: m1^2 - 2*m1*m2 - 2*m1*s + m2^2 - 2*m2*s + s^2
+codim: 1, face: 5/10, weights: [0, -1, 0, 0], discriminant: 1
+codim: 1, face: 6/10, weights: [0, 1, 0, 0], discriminant: m1^2 - 2*m1*m4 - 2*m1*t + m4^2 - 2*m4*t + t^2
+codim: 1, face: 7/10, weights: [0, 0, -1, 0], discriminant: 1
+codim: 1, face: 8/10, weights: [0, 0, 0, -1], discriminant: 1
+codim: 1, face: 9/10, weights: [1, 1, 1, 1], discriminant: 1
+codim: 1, face: 10/10, weights: [1, 0, 0, 0], discriminant: m3^2 - 2*m3*m4 - 2*m3*s + m4^2 - 2*m4*s + s^2
+codim: 0, face: 1/1, weights: [0, 0, 0, 0], discriminant: m1^2*m3 - m1*m2*m3 - m1*m2*m4 + m1*m2*s + m1*m3^2 - m1*m3*m4 - m1*m3*s - m1*m3*t + m1*m4*t - m1*s*t + m2^2*m4 - m2*m3*m4 + m2*m3*t + m2*m4^2 - m2*m4*s - m2*m4*t - m2*s*t + m3*m4*s - m3*s*t - m4*s*t + s^2*t + s*t^2
