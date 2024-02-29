@@ -22,7 +22,7 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
 
             elapsed_time = time.time() - start_time
 
-            if elapsed_time > timeout:
+            if elapsed_time > float(timeout):
                 print("Timeout reached. Julia script is taking too long. Restarting...")
                 process.terminate()  # Terminate the existing process
 
@@ -56,9 +56,11 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
 
                 restarted = True
 
-                run_julia_script(script_path, ["PLDinputs.txt"], args, method)
+                run_julia_script(script_path, ["PLDinputs.txt"], args, method = method)
 
                 if method == "num":
+
+                    print("Restarting with the symbolic method.")
 
                     #Update starting point
                     codim_start, face_start = read_codim_face_from_file(str(args[5]) + ".dat")
@@ -66,16 +68,25 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
                     args[7] = face_start
                     method = "sym"
 
-                    run_julia_script(script_path, ["PLDinputs.txt"], args, method)
+                    run_julia_script(script_path, ["PLDinputs.txt"], args, method = method)
 
                 break
 
             # Check the last modification time of the output file
             last_modification_time = os.path.getmtime(output_file)
 
+            file = open(output_file, "r")
+
+            lines = file.readlines()
+
+            if lines[-1] == "Finished.":
+                break
+
+            file.close()
+
             if last_modification_time > start_time:
                 # New output detected, update the start time
-                start_time = last_modification_time
+                start_time = last_modification_time           
             else:
                 # No new output after the last check, continue waiting
                 continue
@@ -109,12 +120,12 @@ def read_codim_face_from_file(file_path):
 
             if match:
                 codim = int(match.group(1))
-                face = int(match.group(2))
+                face = int(match.group(2)) + 1
 
                 if codim == 0:
                     return None, None
 
-                if face == int(match.group(3)):
+                if int(match.group(2)) == int(match.group(3)):
                     codim -= 1
                     face = 1
                 return codim, face
@@ -131,13 +142,13 @@ def main():
     julia_script_path = "PLDJob.jl"
 
     # Initial parameters
-    edges =  [[1,2],[2,3],[3,4],[4,5], [5,6], [6,1], [2,5]]
-    nodes =  [1,3,4,6]
-    masses = [sym.Symbol("m1"),sym.Symbol("m2"),sym.Symbol("m3"),sym.Symbol("m4")]  
-    numberOfMasses = 4
-    internal_masses =  [0,0,0,0,0,0,0]
-    external_masses =  [masses[0], masses[1], masses[2], masses[3]]
-    save_output = 'Square_genericKinematics_masslessInterior'
+    edges =  [[1,2],[2,3],[3,4],[4,5], [5,1]]
+    nodes =  [1,2,3,4,5]
+    masses = [sym.Symbol("m1"),sym.Symbol("m2"),sym.Symbol("m3"),sym.Symbol("m4"),sym.Symbol("m5")]  
+    numberOfMasses = 5
+    internal_masses =  [0,0,0,0,0]
+    external_masses =  [masses[0], masses[1], masses[2], masses[3], masses[4]]
+    save_output = 'Pentagon_genericKinematics_masslessInter1ior_CorrectMassLabels'
 
     args = [edges, nodes, numberOfMasses, internal_masses, external_masses, save_output]
 

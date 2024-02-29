@@ -50,6 +50,7 @@ if length(args) == 9
     faceStart = parse(Int, args[8]);
     method = Symbol(args[9]);
     restart = true;
+    print(typeof(codimStart))
 end
 
 println("edges: $edges")
@@ -57,6 +58,7 @@ println("nodes: $nodes")
 println("internal_masses: $internal_masses")
 println("external_masses: $external_masses")
 println("diagramNames: $diagramNames")
+println()
 
 if restart == false
     PrincipleLandauDet, pars, vars, U, F = getPLD(edges, nodes, internal_masses=internal_masses, external_masses=external_masses, save_output=string(diagramNames, ".dat"))
@@ -71,6 +73,7 @@ end
 open(string(diagramNames, ".txt"), "w") do file
     write(file, string(diagramNames, "\n\n"))
     write(file, "edges: $(edges)\n")
+    write(file, "nodes: $(nodes)\n")
     write(file, "internal_masses: $(internal_masses)\n")
     write(file, "external_masses: $(external_masses)\n\n")
     write(file, "schwinger parameters: $(vars)\n")  #Confusingly, pars are the variables and vars are the parameters!
@@ -79,3 +82,5 @@ open(string(diagramNames, ".txt"), "w") do file
     write(file, "F: $(F)\n\n")
     write(file, "discriminants: $(PrincipleLandauDet)\n")
 end
+
+println("Finished.")
