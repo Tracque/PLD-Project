@@ -1,0 +1,14 @@
+Triangle_masslessKinematics_genericInterior
+
+edges: [[1, 2], [2, 3], [3, 1]]
+nodes: [1, 2, 3]
+internal_masses: Variable[M1, M2, M3]
+external_masses: [0, 0, 0]
+
+schwinger parameters: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃]
+kinematic variables: QQMPolyRingElem[M1, M2, M3]
+
+U: α₁ + α₂ + α₃
+F: -M1*α₁^2 + (-M1 - M2)*α₁*α₂ + (-M1 - M3)*α₁*α₃ - M2*α₂^2 + (-M2 - M3)*α₂*α₃ - M3*α₃^2
+
+discriminants: Any[AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[M1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[M2], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[M3], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], 1, Any[M1 - M2], Any[M1 - M3], 1, 1, 1, Any[M2 - M3], 1, 1, 1, 1, 1, 1, 1, 1]

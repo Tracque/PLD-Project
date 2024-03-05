@@ -1,0 +1,10 @@
+codim: 0, face: 1/1, weights: [0, 0], discriminant: m1
+codim: 2, face: 1/4, weights: [-1, 0], discriminant: M1
+codim: 2, face: 2/4, weights: [1, 2], discriminant: 1
+codim: 2, face: 3/4, weights: [0, -1], discriminant: M2
+codim: 2, face: 4/4, weights: [2, 1], discriminant: 1
+codim: 1, face: 1/4, weights: [-1, -1], discriminant: M1^2 - 2*M1*M2 + M1*m1 - 2*M2^2 - 2*M2*m1 + m1^2
+codim: 1, face: 2/4, weights: [0, 1], discriminant: 1
+codim: 1, face: 3/4, weights: [1, 1], discriminant: 1
+codim: 1, face: 4/4, weights: [1, 0], discriminant: 1
+codim: 0, face: 1/1, weights: [0, 0], discriminant: m1

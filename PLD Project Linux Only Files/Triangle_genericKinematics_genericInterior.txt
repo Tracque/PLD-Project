@@ -1,0 +1,13 @@
+Triangle_genericKinematics_genericInterior
+
+edges: [[1, 2], [2, 3], [3, 1]]
+internal_masses: Variable[M1, M2, M3]
+external_masses: Variable[m1, m2, m3]
+
+schwinger parameters: QQMPolyRingElem[M1, M2, M3, m1, m2, m3]
+kinematic variables: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃]
+
+U: α₁ + α₂ + α₃
+F: -M1*α₁^2 + (-M1 - M2 + m2)*α₁*α₂ + (-M1 - M3 + m1)*α₁*α₃ - M2*α₂^2 + (-M2 - M3 + m3)*α₂*α₃ - M3*α₃^2
+
+discriminants: Any[Any[m1^2 - 2*m1*m2 + m1*m3 - 2*m2^2 - 2*m2*m3 + m3^2]]

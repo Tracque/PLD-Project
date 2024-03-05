@@ -1,0 +1,13 @@
+Pentagon_masslessKinematics_masslessInterior
+
+edges: [[1, 2], [2, 3], [3, 4], [4, 5], [5, 1]]
+internal_masses: [0, 0, 0, 0, 0]
+external_masses: [0, 0, 0, 0, 0]
+
+schwinger parameters: QQMPolyRingElem[s12, s23, s34, s45, s51]
+kinematic variables: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃, α₄, α₅]
+
+U: α₁ + α₂ + α₃ + α₄ + α₅
+F: s23*α₁*α₃ + s51*α₁*α₄ + s34*α₂*α₄ + s12*α₂*α₅ + s45*α₃*α₅
+
+discriminants: Any[AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[s23], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[s51], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[s34], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[s12], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[s45], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, Any[s23 - s51], 1, 1, Any[s23 - s45], 1, 1, 1, 1, 1, 1, 1, 1, 1, Any[s34 - s51], 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, Any[s12 - s34], 1, 1, 1, 1, 1, Any[s12 - s45], 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, Any[s23 + s34 - s51], 1, 1, Any[s23 - s45 - s51], 1, 1, Any[s12 + s23 - s45], 1, Any[s12 - s34 + s51], 1, 1, Any[s12 - s34 - s45], Any[s12^2*s23^2 - 2*s12^2*s23*s51 + s12^2*s51^2 + 2*s12*s23^2*s34 - 2*s12*s23*s34*s45 + s12*s23*s34*s51 - 2*s12*s23*s45*s51 + 2*s12*s34*s45*s51 + 2*s12*s45*s51^2 + 2*s23^2*s34^2 + 2*s23*s34^2*s45 - 2*s23*s34*s45*s51 + s34^2*s45^2 - 2*s34*s45^2*s51 + s45^2*s51^2]]

@@ -1,0 +1,13 @@
+Bubble_genericKinematics_masslessInterior
+
+edges: [[1, 2], [2, 1]]
+internal_masses: [0, 0]
+external_masses: Variable[m1, m2]
+
+schwinger parameters: QQMPolyRingElem[m1]
+kinematic variables: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂]
+
+U: α₁ + α₂
+F: m1*α₁*α₂
+
+discriminants: Any[AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[m1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], AbstractAlgebra.Generic.FracFieldElem{QQMPolyRingElem}[1], 1, 1, 1, 1]
