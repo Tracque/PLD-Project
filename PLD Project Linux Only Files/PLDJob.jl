@@ -37,6 +37,11 @@ for i in 1:parse(Int,args[3])
     @eval @var $var_name
 end
 
+for i in 1:parse(Int,args[3])   
+    var_name = Symbol("M", i)
+    @eval @var $var_name
+end
+
 internal_masses = convertStringToArray(args[4]);
 external_masses = convertStringToArray(args[5]);
 diagramNames = args[6];

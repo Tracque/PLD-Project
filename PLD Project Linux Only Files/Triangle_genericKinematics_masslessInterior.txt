@@ -1,11 +1,12 @@
 Triangle_genericKinematics_masslessInterior
 
 edges: [[1, 2], [2, 3], [3, 1]]
+nodes: [1, 2, 3]
 internal_masses: [0, 0, 0]
 external_masses: Variable[m1, m2, m3]
 
-schwinger parameters: QQMPolyRingElem[m1, m2, m3]
-kinematic variables: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃]
+schwinger parameters: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃]
+kinematic variables: QQMPolyRingElem[m1, m2, m3]
 
 U: α₁ + α₂ + α₃
 F: m2*α₁*α₂ + m1*α₁*α₃ + m3*α₂*α₃

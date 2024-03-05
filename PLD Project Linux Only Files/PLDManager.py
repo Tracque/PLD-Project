@@ -5,7 +5,7 @@ import time
 import os
 
 
-def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="output.txt", method = "sym"):
+def run_julia_script(script_path, inputfile, args,  timeout=600, output_file="output.txt", method = "sym"):
     try:
         # Construct the command to run Julia script
         command = ["julia", script_path] + inputfile
@@ -27,7 +27,10 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
                 process.terminate()  # Terminate the existing process
 
                 # Update other parameters as needed
-                codim_start, face_start = read_codim_face_from_file(str(args[5]) + ".dat")
+                codim_start, face_start = read_codim_face_from_file(str(args[5]) + ".dat", restarted)
+
+                if codim_start == None:
+                    break
 
                 print("Symbolic method got stuck at codim " + str(codim_start) + " and on face " + str(face_start))
 
@@ -36,9 +39,6 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
 
                 print("Retrying this face using numerical method.")
                 print("-----------")
-
-                if codim_start == None:
-                    break
 
                 if restarted == False:
                     if len(args) == 6:
@@ -79,8 +79,9 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
 
             lines = file.readlines()
 
-            if lines[-1] == "Finished.":
-                break
+            if len(lines) > 0:
+                if lines[-1] == "Finished.":
+                    break
 
             file.close()
 
@@ -101,7 +102,7 @@ def run_julia_script(script_path, inputfile, args,  timeout=300, output_file="ou
 
     return 0
 
-def read_codim_face_from_file(file_path):
+def read_codim_face_from_file(file_path, restarted):
     try:
         with open(file_path, 'r') as file:
             # Read all lines from the file
@@ -135,20 +136,24 @@ def read_codim_face_from_file(file_path):
 
     except FileNotFoundError:
         print(f"File {file_path} not found.")
-        return None, None
+        if restarted == True:
+            return None, None
+        else:
+            return 3, 1
 
 def main():
     # Specify the path to your Julia script
     julia_script_path = "PLDJob.jl"
 
     # Initial parameters
-    edges =  [[1,2],[2,3],[3,4],[4,5], [5,1]]
-    nodes =  [1,2,3,4,5]
-    masses = [sym.Symbol("m1"),sym.Symbol("m2"),sym.Symbol("m3"),sym.Symbol("m4"),sym.Symbol("m5")]  
-    numberOfMasses = 5
-    internal_masses =  [0,0,0,0,0]
-    external_masses =  [masses[0], masses[1], masses[2], masses[3], masses[4]]
-    save_output = 'Pentagon_genericKinematics_masslessInter1ior_CorrectMassLabels'
+    edges =  [[1,2],[2,3],[3,1]]
+    nodes =  [1,2,3]
+    masses = [sym.Symbol("m1"),sym.Symbol("m2"),sym.Symbol("m3"),sym.Symbol("m4"),sym.Symbol("m5"),sym.Symbol("m6")]  
+    internalM = [sym.Symbol("M1"),sym.Symbol("M2"),sym.Symbol("M3"),sym.Symbol("M4"),sym.Symbol("M5"),sym.Symbol("M6")]  
+    numberOfMasses = 3
+    internal_masses =  [0,0,0]
+    external_masses =  [0,0,0]
+    save_output = 'Triangle_masslessKinematics_masslessInterior'
 
     args = [edges, nodes, numberOfMasses, internal_masses, external_masses, save_output]
 

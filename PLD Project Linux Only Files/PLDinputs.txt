@@ -1,9 +1,9 @@
-[[1, 2], [2, 3], [3, 4], [4, 5], [5, 1]]
-[1, 2, 3, 4, 5]
-5
-[0, 0, 0, 0, 0]
-[m1, m2, m3, m4, m5]
-Pentagon_genericKinematics_masslessInter1ior_CorrectMassLabels
-0
+[[1, 2], [2, 3], [3, 1]]
+[1, 2, 3]
+3
+[0, 0, 0]
+[0, 0, 0]
+Triangle_masslessKinematics_masslessInterior
+3
 1
-num
+sym
