@@ -63,7 +63,7 @@ def run_julia_script(script_path, inputfile, args,  timeout=600, output_file="ou
                     print("Restarting with the symbolic method.")
 
                     #Update starting point
-                    codim_start, face_start = read_codim_face_from_file(str(args[5]) + ".dat")
+                    codim_start, face_start = read_codim_face_from_file(str(args[5]) + ".dat", restarted)
                     args[6] = codim_start
                     args[7] = face_start
                     method = "sym"
@@ -146,14 +146,14 @@ def main():
     julia_script_path = "PLDJob.jl"
 
     # Initial parameters
-    edges =  [[1,2],[2,3],[3,1]]
-    nodes =  [1,2,3]
+    edges =  [[1,2],[2,3],[1,3],[3,4],[4,5],[5,1]]
+    nodes =  [1,2,3,4,5]
     masses = [sym.Symbol("m1"),sym.Symbol("m2"),sym.Symbol("m3"),sym.Symbol("m4"),sym.Symbol("m5"),sym.Symbol("m6")]  
     internalM = [sym.Symbol("M1"),sym.Symbol("M2"),sym.Symbol("M3"),sym.Symbol("M4"),sym.Symbol("M5"),sym.Symbol("M6")]  
-    numberOfMasses = 3
-    internal_masses =  [0,0,0]
-    external_masses =  [0,0,0]
-    save_output = 'Triangle_masslessKinematics_masslessInterior'
+    numberOfMasses = 5
+    internal_masses =  [0,0,0,0,0,0]
+    external_masses =  [0,masses[1],0,0,masses[4]]
+    save_output = 'FivePoint_2Loop_2mass'
 
     args = [edges, nodes, numberOfMasses, internal_masses, external_masses, save_output]
 

@@ -43,6 +43,3 @@ codim: 1, face: 4/6, weights: [-1, -1, -1, -1], discriminant: M1^2*M4^2 + M1^2*M
 codim: 1, face: 5/6, weights: [1, 1, 1, 1], discriminant: 1
 codim: 1, face: 6/6, weights: [1, 0, 0, 0], discriminant: s
 codim: 0, face: 1/1, weights: [0, 0, 0, 0], discriminant: s + t
-codim: 1, face: 5/6, weights: [1, 1, 1, 1], discriminant: 1
-codim: 1, face: 6/6, weights: [1, 0, 0, 0], discriminant: s
-codim: 0, face: 1/1, weights: [0, 0, 0, 0], discriminant: s + t
