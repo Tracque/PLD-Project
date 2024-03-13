@@ -1,0 +1,587 @@
+codim: 6, face: 1/22, weights: [-3, -3, -2, -2, -1, 0], discriminant: s34
+codim: 6, face: 2/22, weights: [-3, -2, 0, 1, 0, -2], discriminant: m1
+codim: 6, face: 3/22, weights: [-1, 0, 2, 3, 2, 2], discriminant: 1
+codim: 6, face: 4/22, weights: [-3, -2, -3, -1, -2, 0], discriminant: s23
+codim: 6, face: 5/22, weights: [-3, 0, -2, 0, 1, -2], discriminant: m1
+codim: 6, face: 6/22, weights: [-1, 2, 0, 2, 3, 2], discriminant: 1
+codim: 6, face: 7/22, weights: [-2, -1, -1, -3, -3, -1], discriminant: s51
+codim: 6, face: 8/22, weights: [-2, 1, 0, -2, 0, -3], discriminant: m1
+codim: 6, face: 9/22, weights: [0, 3, 2, 1, 3, 2], discriminant: 1
+codim: 6, face: 10/22, weights: [-2, 0, 1, 0, -2, -3], discriminant: m1
+codim: 6, face: 11/22, weights: [0, 2, 3, 3, 1, 2], discriminant: 1
+codim: 6, face: 12/22, weights: [-1, -3, -3, -1, -1, -2], discriminant: m1 - s12 - s23 + s45
+codim: 6, face: 13/22, weights: [1, -1, -1, 1, 1, 2], discriminant: 1
+codim: 6, face: 14/22, weights: [0, -2, -1, -3, -2, -3], discriminant: m1 - s12 + s34 - s51
+codim: 6, face: 15/22, weights: [2, 0, 1, 0, 1, 2], discriminant: 1
+codim: 6, face: 16/22, weights: [2, 1, 3, 3, 2, 0], discriminant: 1
+codim: 6, face: 17/22, weights: [0, -1, -2, -2, -3, -3], discriminant: s45
+codim: 6, face: 18/22, weights: [2, 1, 0, 1, 0, 2], discriminant: 1
+codim: 6, face: 19/22, weights: [2, 3, 1, 2, 3, 0], discriminant: 1
+codim: 6, face: 20/22, weights: [2, 1, 1, -1, -1, 1], discriminant: 1
+codim: 6, face: 21/22, weights: [2, 3, 2, 0, 2, -1], discriminant: 1
+codim: 6, face: 22/22, weights: [2, 2, 3, 2, 0, -1], discriminant: 1
+codim: 5, face: 1/104, weights: [-3, -3, -1, -1, -1, -1], discriminant: 1
+codim: 5, face: 2/104, weights: [-2, -2, 0, 0, 0, 1], discriminant: 1
+codim: 5, face: 3/104, weights: [-3, -3, -3, -2, -2, 0], discriminant: 1
+codim: 5, face: 4/104, weights: [-3, -2, -3, -2, 0, -1], discriminant: 1
+codim: 5, face: 5/104, weights: [-2, -1, -2, -1, 1, 1], discriminant: 1
+codim: 5, face: 6/104, weights: [-2, -2, -1, -2, -2, 0], discriminant: 1
+codim: 5, face: 7/104, weights: [-2, -1, -1, -2, 0, -1], discriminant: 1
+codim: 5, face: 8/104, weights: [-1, 0, 0, -1, 1, 1], discriminant: 1
+codim: 5, face: 9/104, weights: [-2, -3, -3, -2, -1, -1], discriminant: 1
+codim: 5, face: 10/104, weights: [-1, -2, -2, -1, 0, 1], discriminant: 1
+codim: 5, face: 11/104, weights: [-1, -2, -1, -2, -1, -1], discriminant: 1
+codim: 5, face: 12/104, weights: [0, -1, 0, -1, 0, 1], discriminant: 1
+codim: 5, face: 13/104, weights: [-2, -1, 1, 2, 1, 0], discriminant: 1
+codim: 5, face: 14/104, weights: [-3, -3, -2, 0, -2, -1], discriminant: 1
+codim: 5, face: 15/104, weights: [-3, -1, -1, 1, 1, -2], discriminant: m1
+codim: 5, face: 16/104, weights: [-2, 0, 1, 0, 1, -2], discriminant: m1
+codim: 5, face: 17/104, weights: [-2, -1, 1, 1, -1, -2], discriminant: m1
+codim: 5, face: 18/104, weights: [-2, -3, -2, 0, -1, -2], discriminant: 1
+codim: 5, face: 19/104, weights: [-1, -2, 0, -1, -1, -2], discriminant: 1
+codim: 5, face: 20/104, weights: [0, 0, 2, 2, 1, -1], discriminant: 1
+codim: 5, face: 21/104, weights: [-2, -2, -1, 1, -1, 1], discriminant: 1
+codim: 5, face: 22/104, weights: [-1, 1, 1, 3, 3, 2], discriminant: 1
+codim: 5, face: 23/104, weights: [0, 2, 3, 2, 3, 2], discriminant: 1
+codim: 5, face: 24/104, weights: [0, 1, 3, 3, 1, 2], discriminant: 1
+codim: 5, face: 25/104, weights: [0, -1, 0, 2, 1, 2], discriminant: 1
+codim: 5, face: 26/104, weights: [1, 0, 2, 1, 1, 2], discriminant: 1
+codim: 5, face: 27/104, weights: [1, 1, 3, 3, 2, 1], discriminant: 1
+codim: 5, face: 28/104, weights: [-3, -1, -3, -1, -1, -1], discriminant: 1
+codim: 5, face: 29/104, weights: [-2, 0, -2, 0, 0, 1], discriminant: 1
+codim: 5, face: 30/104, weights: [-2, -1, -2, -2, -2, 0], discriminant: 1
+codim: 5, face: 31/104, weights: [-2, -1, -1, 0, -2, -1], discriminant: 1
+codim: 5, face: 32/104, weights: [-1, 0, 0, 1, -1, 1], discriminant: 1
+codim: 5, face: 33/104, weights: [-2, -3, -3, -1, -2, -1], discriminant: 1
+codim: 5, face: 34/104, weights: [-1, -2, -2, 0, -1, 1], discriminant: 1
+codim: 5, face: 35/104, weights: [-1, -1, -2, -1, -2, -1], discriminant: 1
+codim: 5, face: 36/104, weights: [0, 0, -1, 0, -1, 1], discriminant: 1
+codim: 5, face: 37/104, weights: [-2, 1, -1, 1, 2, 0], discriminant: 1
+codim: 5, face: 38/104, weights: [-2, 1, -1, -1, 1, -2], discriminant: m1
+codim: 5, face: 39/104, weights: [-2, 1, 0, 1, 0, -2], discriminant: m1
+codim: 5, face: 40/104, weights: [-2, -2, -3, -1, 0, -2], discriminant: 1
+codim: 5, face: 41/104, weights: [-1, 0, -2, -1, -1, -2], discriminant: 1
+codim: 5, face: 42/104, weights: [0, 2, 0, 1, 2, -1], discriminant: 1
+codim: 5, face: 43/104, weights: [0, 3, 1, 1, 3, 2], discriminant: 1
+codim: 5, face: 44/104, weights: [0, 3, 2, 3, 2, 2], discriminant: 1
+codim: 5, face: 45/104, weights: [0, 0, -1, 1, 2, 2], discriminant: 1
+codim: 5, face: 46/104, weights: [1, 2, 0, 1, 1, 2], discriminant: 1
+codim: 5, face: 47/104, weights: [1, 3, 1, 2, 3, 1], discriminant: 1
+codim: 5, face: 48/104, weights: [-2, 0, -1, -3, -2, -2], discriminant: 1
+codim: 5, face: 49/104, weights: [-1, 1, 0, -1, 0, 1], discriminant: 1
+codim: 5, face: 50/104, weights: [-2, -1, 0, -2, -3, -2], discriminant: 1
+codim: 5, face: 51/104, weights: [-1, 0, 1, 0, -1, 1], discriminant: 1
+codim: 5, face: 52/104, weights: [-1, -2, -1, -3, -3, -2], discriminant: 1
+codim: 5, face: 53/104, weights: [-1, -1, -2, -3, -3, -2], discriminant: 1
+codim: 5, face: 54/104, weights: [0, 0, 0, -2, -2, 0], discriminant: 1
+codim: 5, face: 55/104, weights: [-1, 2, 1, 0, 2, 0], discriminant: 1
+codim: 5, face: 56/104, weights: [-2, 1, 1, -1, -1, -3], discriminant: m1
+codim: 5, face: 57/104, weights: [-1, -1, -1, -3, -1, -3], discriminant: 1
+codim: 5, face: 58/104, weights: [-1, 0, -2, -3, -2, -3], discriminant: 1
+codim: 5, face: 59/104, weights: [0, 2, 1, -1, 1, -2], discriminant: 1
+codim: 5, face: 60/104, weights: [0, 3, 3, 2, 2, 2], discriminant: 1
+codim: 5, face: 61/104, weights: [1, 1, 1, 0, 2, 2], discriminant: 1
+codim: 5, face: 62/104, weights: [1, 2, 1, 0, 1, 2], discriminant: 1
+codim: 5, face: 63/104, weights: [1, 3, 2, 1, 3, 1], discriminant: 1
+codim: 5, face: 64/104, weights: [-1, 1, 2, 2, 0, 0], discriminant: 1
+codim: 5, face: 65/104, weights: [-1, -2, 0, -2, -3, -3], discriminant: 1
+codim: 5, face: 66/104, weights: [-1, -1, -1, -1, -3, -3], discriminant: 1
+codim: 5, face: 67/104, weights: [0, 1, 2, 1, -1, -2], discriminant: 1
+codim: 5, face: 68/104, weights: [1, 1, 1, 2, 0, 2], discriminant: 1
+codim: 5, face: 69/104, weights: [1, 1, 2, 1, 0, 2], discriminant: 1
+codim: 5, face: 70/104, weights: [1, 2, 3, 3, 1, 1], discriminant: 1
+codim: 5, face: 71/104, weights: [0, -2, -2, 0, 0, 0], discriminant: 1
+codim: 5, face: 72/104, weights: [0, -2, -2, -2, -1, -2], discriminant: 1
+codim: 5, face: 73/104, weights: [1, -1, 0, 1, 0, -1], discriminant: 1
+codim: 5, face: 74/104, weights: [0, -2, -2, -1, -2, -2], discriminant: 1
+codim: 5, face: 75/104, weights: [1, 0, -1, 0, 1, -1], discriminant: 1
+codim: 5, face: 76/104, weights: [2, 0, 0, 0, 1, 2], discriminant: 1
+codim: 5, face: 77/104, weights: [2, 0, 1, 2, 1, 1], discriminant: 1
+codim: 5, face: 78/104, weights: [2, 0, 0, 1, 0, 2], discriminant: 1
+codim: 5, face: 79/104, weights: [2, 1, 0, 1, 2, 1], discriminant: 1
+codim: 5, face: 80/104, weights: [1, -1, 0, -1, 0, 0], discriminant: 1
+codim: 5, face: 81/104, weights: [1, -1, 1, 0, 0, -1], discriminant: 1
+codim: 5, face: 82/104, weights: [0, -2, -2, -3, -3, -3], discriminant: 1
+codim: 5, face: 83/104, weights: [1, -1, 0, -2, -2, -1], discriminant: 1
+codim: 5, face: 84/104, weights: [1, 0, 0, -2, 0, -2], discriminant: 1
+codim: 5, face: 85/104, weights: [1, -1, 1, -1, -2, -2], discriminant: 1
+codim: 5, face: 86/104, weights: [2, 0, 2, 1, 1, 1], discriminant: 1
+codim: 5, face: 87/104, weights: [2, 0, 1, 0, 0, 2], discriminant: 1
+codim: 5, face: 88/104, weights: [2, 1, 1, 0, 2, 1], discriminant: 1
+codim: 5, face: 89/104, weights: [2, 2, 2, 3, 3, 0], discriminant: 1
+codim: 5, face: 90/104, weights: [2, 2, 3, 2, 3, 0], discriminant: 1
+codim: 5, face: 91/104, weights: [2, 1, 3, 3, 1, 0], discriminant: 1
+codim: 5, face: 92/104, weights: [1, 0, -1, 0, -1, 0], discriminant: 1
+codim: 5, face: 93/104, weights: [1, 1, -1, 0, 0, -1], discriminant: 1
+codim: 5, face: 94/104, weights: [1, 0, -1, -2, -2, -1], discriminant: 1
+codim: 5, face: 95/104, weights: [1, 1, -1, -2, -1, -2], discriminant: 1
+codim: 5, face: 96/104, weights: [1, 0, 0, 0, -2, -2], discriminant: 1
+codim: 5, face: 97/104, weights: [2, 2, 0, 1, 1, 1], discriminant: 1
+codim: 5, face: 98/104, weights: [2, 1, 0, 0, 0, 2], discriminant: 1
+codim: 5, face: 99/104, weights: [2, 1, 1, 2, 0, 1], discriminant: 1
+codim: 5, face: 100/104, weights: [2, 3, 1, 1, 3, 0], discriminant: 1
+codim: 5, face: 101/104, weights: [2, 3, 2, 3, 2, 0], discriminant: 1
+codim: 5, face: 102/104, weights: [2, 2, 1, -1, 0, 0], discriminant: 1
+codim: 5, face: 103/104, weights: [2, 1, 2, 0, -1, 0], discriminant: 1
+codim: 5, face: 104/104, weights: [2, 3, 3, 1, 1, -1], discriminant: 1
+codim: 4, face: 1/195, weights: [-2, -2, 0, 0, 0, 0], discriminant: 1
+codim: 4, face: 2/195, weights: [-3, -3, -2, -1, -2, -1], discriminant: 1
+codim: 4, face: 3/195, weights: [-3, -2, -2, -1, 0, -1], discriminant: 1
+codim: 4, face: 4/195, weights: [-2, -2, 0, -1, -2, -1], discriminant: s34 - s51
+codim: 4, face: 5/195, weights: [-2, -1, 0, -1, 0, -1], discriminant: 1
+codim: 4, face: 6/195, weights: [-2, -3, -2, -1, -1, -1], discriminant: 1
+codim: 4, face: 7/195, weights: [-1, -2, 0, -1, -1, -1], discriminant: 1
+codim: 4, face: 8/195, weights: [-2, -2, -1, 0, -1, 1], discriminant: 1
+codim: 4, face: 9/195, weights: [-2, -1, -1, 0, 1, 1], discriminant: 1
+codim: 4, face: 10/195, weights: [-1, -1, 1, 0, -1, 1], discriminant: s34 - s51
+codim: 4, face: 11/195, weights: [-1, 0, 1, 0, 1, 1], discriminant: 1
+codim: 4, face: 12/195, weights: [-1, -2, -1, 0, 0, 1], discriminant: 1
+codim: 4, face: 13/195, weights: [0, -1, 1, 0, 0, 1], discriminant: 1
+codim: 4, face: 14/195, weights: [-3, -2, -3, -2, -1, -1], discriminant: 1
+codim: 4, face: 15/195, weights: [-2, -1, -2, -1, 0, 1], discriminant: 1
+codim: 4, face: 16/195, weights: [-2, -2, -2, -2, -2, 0], discriminant: 1
+codim: 4, face: 17/195, weights: [-2, -3, -3, -2, -2, -1], discriminant: 1
+codim: 4, face: 18/195, weights: [-1, -2, -2, -1, -1, 1], discriminant: 1
+codim: 4, face: 19/195, weights: [-2, -1, -2, -1, 1, 0], discriminant: 1
+codim: 4, face: 20/195, weights: [-2, -1, -2, -2, 0, -1], discriminant: 1
+codim: 4, face: 21/195, weights: [-2, -2, -3, -2, 0, -1], discriminant: 1
+codim: 4, face: 22/195, weights: [-1, 0, -1, -1, 1, 1], discriminant: 1
+codim: 4, face: 23/195, weights: [-1, -1, -2, -1, 1, 1], discriminant: 1
+codim: 4, face: 24/195, weights: [-2, -1, -1, -2, -1, -1], discriminant: 1
+codim: 4, face: 25/195, weights: [-1, 0, 0, -1, 0, 1], discriminant: 1
+codim: 4, face: 26/195, weights: [-1, -2, -1, -2, -2, -1], discriminant: 1
+codim: 4, face: 27/195, weights: [0, -1, 0, -1, -1, 1], discriminant: s34 - s51
+codim: 4, face: 28/195, weights: [-1, 0, 0, -1, 1, 0], discriminant: 1
+codim: 4, face: 29/195, weights: [-1, -1, -1, -2, 0, -1], discriminant: 1
+codim: 4, face: 30/195, weights: [0, 0, 0, -1, 1, 1], discriminant: 1
+codim: 4, face: 31/195, weights: [-1, -2, -2, -1, 0, 0], discriminant: 1
+codim: 4, face: 32/195, weights: [-1, -2, -2, -2, -1, -1], discriminant: 1
+codim: 4, face: 33/195, weights: [0, -1, -1, -1, 0, 1], discriminant: 1
+codim: 4, face: 34/195, weights: [0, -1, 0, -1, 0, 0], discriminant: 1
+codim: 4, face: 35/195, weights: [-2, -2, -1, 1, -1, 0], discriminant: 1
+codim: 4, face: 36/195, weights: [-2, 0, 0, 2, 2, 0], discriminant: 1
+codim: 4, face: 37/195, weights: [-1, 1, 2, 1, 2, 0], discriminant: 1
+codim: 4, face: 38/195, weights: [-1, 0, 2, 2, 0, 0], discriminant: 1
+codim: 4, face: 39/195, weights: [-1, -2, -1, 1, 0, 0], discriminant: s12 + s23 - s45
+codim: 4, face: 40/195, weights: [0, 0, 2, 2, 1, 0], discriminant: 1
+codim: 4, face: 41/195, weights: [-3, -2, -2, 0, -1, -1], discriminant: 1
+codim: 4, face: 42/195, weights: [-2, -2, -1, 0, -2, -1], discriminant: 1
+codim: 4, face: 43/195, weights: [-2, -3, -2, 0, -2, -1], discriminant: 1
+codim: 4, face: 44/195, weights: [-2, 0, 0, 0, 1, -2], discriminant: m1
+codim: 4, face: 45/195, weights: [-2, 0, 0, 1, 0, -2], discriminant: m1
+codim: 4, face: 46/195, weights: [-2, -2, -2, 0, 0, -2], discriminant: 1
+codim: 4, face: 47/195, weights: [0, 1, 1, 2, 2, -1], discriminant: 1
+codim: 4, face: 48/195, weights: [-2, 0, 1, 0, 0, -2], discriminant: m1
+codim: 4, face: 49/195, weights: [-1, -1, 0, -1, 0, -2], discriminant: 1
+codim: 4, face: 50/195, weights: [0, 1, 2, 1, 2, -1], discriminant: 1
+codim: 4, face: 51/195, weights: [-1, -2, -1, 0, -2, -2], discriminant: m1 - s12 - s23
+codim: 4, face: 52/195, weights: [-1, -2, 0, -1, -2, -2], discriminant: 1
+codim: 4, face: 53/195, weights: [0, 0, 2, 2, 0, -1], discriminant: 1
+codim: 4, face: 54/195, weights: [-1, -2, -1, -1, -1, -2], discriminant: 1
+codim: 4, face: 55/195, weights: [0, -1, 0, 1, 0, -1], discriminant: 1
+codim: 4, face: 56/195, weights: [0, -1, 1, 0, 0, -1], discriminant: 1
+codim: 4, face: 57/195, weights: [-2, -1, -1, 1, 0, 1], discriminant: 1
+codim: 4, face: 58/195, weights: [-1, -1, 0, 1, -1, 1], discriminant: 1
+codim: 4, face: 59/195, weights: [-1, -2, -1, 1, -1, 1], discriminant: 1
+codim: 4, face: 60/195, weights: [0, 2, 2, 2, 3, 2], discriminant: 1
+codim: 4, face: 61/195, weights: [0, 2, 2, 3, 2, 2], discriminant: 1
+codim: 4, face: 62/195, weights: [0, 0, 0, 2, 2, 2], discriminant: 1
+codim: 4, face: 63/195, weights: [1, 2, 2, 3, 3, 1], discriminant: 1
+codim: 4, face: 64/195, weights: [0, 2, 3, 2, 2, 2], discriminant: 1
+codim: 4, face: 65/195, weights: [1, 1, 2, 1, 2, 2], discriminant: 1
+codim: 4, face: 66/195, weights: [1, 2, 3, 2, 3, 1], discriminant: 1
+codim: 4, face: 67/195, weights: [1, 0, 1, 2, 0, 2], discriminant: 1
+codim: 4, face: 68/195, weights: [1, 0, 2, 1, 0, 2], discriminant: 1
+codim: 4, face: 69/195, weights: [1, 1, 3, 3, 1, 1], discriminant: 1
+codim: 4, face: 70/195, weights: [1, 0, 1, 1, 1, 2], discriminant: 1
+codim: 4, face: 71/195, weights: [1, 0, 1, 2, 1, 1], discriminant: 1
+codim: 4, face: 72/195, weights: [1, 0, 2, 1, 1, 1], discriminant: 1
+codim: 4, face: 73/195, weights: [-2, 0, -2, 0, 0, 0], discriminant: 1
+codim: 4, face: 74/195, weights: [-2, 0, -2, -2, -1, -1], discriminant: s23 - s51
+codim: 4, face: 75/195, weights: [-2, 0, -1, 0, -1, -1], discriminant: 1
+codim: 4, face: 76/195, weights: [-2, -2, -3, -1, -1, -1], discriminant: 1
+codim: 4, face: 77/195, weights: [-1, 0, -2, -1, -1, -1], discriminant: 1
+codim: 4, face: 78/195, weights: [-1, 1, -1, -1, 0, 1], discriminant: s23 - s51
+codim: 4, face: 79/195, weights: [-1, 1, 0, 1, 0, 1], discriminant: 1
+codim: 4, face: 80/195, weights: [-1, -1, -2, 0, 0, 1], discriminant: 1
+codim: 4, face: 81/195, weights: [0, 1, -1, 0, 0, 1], discriminant: 1
+codim: 4, face: 82/195, weights: [-2, -1, -1, -1, -2, -1], discriminant: 1
+codim: 4, face: 83/195, weights: [-1, 0, 0, 0, -1, 1], discriminant: 1
+codim: 4, face: 84/195, weights: [-1, -1, -2, -2, -2, -1], discriminant: 1
+codim: 4, face: 85/195, weights: [0, 0, -1, -1, -1, 1], discriminant: s23 - s51
+codim: 4, face: 86/195, weights: [-1, 0, 0, 1, -1, 0], discriminant: 1
+codim: 4, face: 87/195, weights: [-1, -1, -1, 0, -2, -1], discriminant: 1
+codim: 4, face: 88/195, weights: [0, 0, 0, 1, -1, 1], discriminant: 1
+codim: 4, face: 89/195, weights: [-1, -2, -2, 0, -1, 0], discriminant: 1
+codim: 4, face: 90/195, weights: [-1, -2, -2, -1, -2, -1], discriminant: 1
+codim: 4, face: 91/195, weights: [0, -1, -1, 0, -1, 1], discriminant: 1
+codim: 4, face: 92/195, weights: [0, 0, -1, 0, -1, 0], discriminant: 1
+codim: 4, face: 93/195, weights: [-1, 2, 0, 0, 2, 0], discriminant: 1
+codim: 4, face: 94/195, weights: [-1, 2, 1, 2, 1, 0], discriminant: 1
+codim: 4, face: 95/195, weights: [-1, -1, -2, 0, 1, 0], discriminant: s12 + s23 - s45
+codim: 4, face: 96/195, weights: [0, 2, 0, 1, 2, 0], discriminant: 1
+codim: 4, face: 97/195, weights: [-2, 1, 0, 0, 0, -2], discriminant: m1
+codim: 4, face: 98/195, weights: [-1, -1, -2, -2, 0, -2], discriminant: s23 + s34 - s45 - s51
+codim: 4, face: 99/195, weights: [-1, 0, -2, -2, -1, -2], discriminant: 1
+codim: 4, face: 100/195, weights: [0, 2, 0, 0, 2, -1], discriminant: 1
+codim: 4, face: 101/195, weights: [-1, 0, -1, 0, -1, -2], discriminant: 1
+codim: 4, face: 102/195, weights: [0, 2, 1, 2, 1, -1], discriminant: 1
+codim: 4, face: 103/195, weights: [-1, -1, -2, -1, -1, -2], discriminant: 1
+codim: 4, face: 104/195, weights: [0, 0, -1, 0, 1, -1], discriminant: 1
+codim: 4, face: 105/195, weights: [0, 1, -1, 0, 0, -1], discriminant: 1
+codim: 4, face: 106/195, weights: [0, 3, 2, 2, 2, 2], discriminant: 1
+codim: 4, face: 107/195, weights: [1, 1, 0, 0, 2, 2], discriminant: 1
+codim: 4, face: 108/195, weights: [1, 2, 0, 0, 1, 2], discriminant: 1
+codim: 4, face: 109/195, weights: [1, 3, 1, 1, 3, 1], discriminant: 1
+codim: 4, face: 110/195, weights: [1, 2, 1, 2, 1, 2], discriminant: 1
+codim: 4, face: 111/195, weights: [1, 3, 2, 3, 2, 1], discriminant: 1
+codim: 4, face: 112/195, weights: [1, 1, 0, 1, 1, 2], discriminant: 1
+codim: 4, face: 113/195, weights: [1, 1, 0, 1, 2, 1], discriminant: 1
+codim: 4, face: 114/195, weights: [1, 2, 0, 1, 1, 1], discriminant: 1
+codim: 4, face: 115/195, weights: [-1, 1, 0, -1, 0, 0], discriminant: 1
+codim: 4, face: 116/195, weights: [-2, 0, 0, -2, -2, -2], discriminant: 1
+codim: 4, face: 117/195, weights: [-1, -1, -1, -3, -2, -2], discriminant: 1
+codim: 4, face: 118/195, weights: [-1, 0, -2, -3, -2, -2], discriminant: 1
+codim: 4, face: 119/195, weights: [0, 1, 0, -2, -1, -1], discriminant: m1 - s51
+codim: 4, face: 120/195, weights: [-1, 1, 1, 0, 0, 1], discriminant: 1
+codim: 4, face: 121/195, weights: [0, 1, 0, -1, 0, 1], discriminant: 1
+codim: 4, face: 122/195, weights: [-1, 0, 1, 0, -1, 0], discriminant: 1
+codim: 4, face: 123/195, weights: [-1, -2, 0, -2, -3, -2], discriminant: 1
+codim: 4, face: 124/195, weights: [-1, -1, -1, -2, -3, -2], discriminant: 1
+codim: 4, face: 125/195, weights: [0, 0, 1, -1, -2, -1], discriminant: m1 - s51
+codim: 4, face: 126/195, weights: [0, 0, 1, 0, -1, 1], discriminant: 1
+codim: 4, face: 127/195, weights: [-1, -2, -2, -3, -3, -2], discriminant: 1
+codim: 4, face: 128/195, weights: [0, -1, 0, -2, -2, -1], discriminant: 1
+codim: 4, face: 129/195, weights: [0, 0, -1, -2, -2, -1], discriminant: 1
+codim: 4, face: 130/195, weights: [-1, 2, 2, 1, 1, 0], discriminant: 1
+codim: 4, face: 131/195, weights: [0, 2, 1, 0, 2, 0], discriminant: 1
+codim: 4, face: 132/195, weights: [-1, -1, 0, -2, -2, -3], discriminant: 1
+codim: 4, face: 133/195, weights: [-1, 0, -1, -2, -2, -3], discriminant: 1
+codim: 4, face: 134/195, weights: [0, 2, 2, 0, 0, -2], discriminant: 1
+codim: 4, face: 135/195, weights: [-1, -1, -2, -3, -2, -3], discriminant: 1
+codim: 4, face: 136/195, weights: [0, 0, 0, -2, 0, -2], discriminant: 1
+codim: 4, face: 137/195, weights: [0, 1, -1, -2, -1, -2], discriminant: 1
+codim: 4, face: 138/195, weights: [1, 2, 2, 1, 1, 2], discriminant: 1
+codim: 4, face: 139/195, weights: [1, 3, 3, 2, 2, 1], discriminant: 1
+codim: 4, face: 140/195, weights: [1, 1, 1, 0, 1, 2], discriminant: 1
+codim: 4, face: 141/195, weights: [1, 1, 1, 0, 2, 1], discriminant: 1
+codim: 4, face: 142/195, weights: [1, 2, 1, 0, 1, 1], discriminant: 1
+codim: 4, face: 143/195, weights: [0, 1, 2, 2, 0, 0], discriminant: 1
+codim: 4, face: 144/195, weights: [-1, -2, -1, -2, -3, -3], discriminant: 1
+codim: 4, face: 145/195, weights: [0, -1, 1, -1, -2, -2], discriminant: 1
+codim: 4, face: 146/195, weights: [0, 0, 0, 0, -2, -2], discriminant: 1
+codim: 4, face: 147/195, weights: [1, 1, 1, 1, 0, 2], discriminant: 1
+codim: 4, face: 148/195, weights: [1, 1, 1, 2, 0, 1], discriminant: 1
+codim: 4, face: 149/195, weights: [1, 1, 2, 1, 0, 1], discriminant: 1
+codim: 4, face: 150/195, weights: [1, -1, -1, -1, 0, 0], discriminant: s23 + s34 - s45 - s51
+codim: 4, face: 151/195, weights: [1, -1, 0, 1, 0, 0], discriminant: 1
+codim: 4, face: 152/195, weights: [1, -1, -1, 0, -1, 0], discriminant: m1 - s12 - s23
+codim: 4, face: 153/195, weights: [1, 0, -1, 0, 1, 0], discriminant: 1
+codim: 4, face: 154/195, weights: [1, -1, 0, 0, 0, -1], discriminant: 1
+codim: 4, face: 155/195, weights: [0, -2, -2, -2, -2, -2], discriminant: 1
+codim: 4, face: 156/195, weights: [1, 0, -1, -1, 1, -1], discriminant: s23 + s34 - s45 - s51
+codim: 4, face: 157/195, weights: [1, -1, 0, 1, -1, -1], discriminant: m1 - s12 - s23
+codim: 4, face: 158/195, weights: [1, 0, 0, 1, 1, -1], discriminant: 1
+codim: 4, face: 159/195, weights: [1, 0, -1, 0, 0, -1], discriminant: 1
+codim: 4, face: 160/195, weights: [2, 0, 1, 1, 1, 1], discriminant: 1
+codim: 4, face: 161/195, weights: [2, 0, 0, 0, 0, 2], discriminant: 1
+codim: 4, face: 162/195, weights: [2, 1, 0, 0, 2, 1], discriminant: 1
+codim: 4, face: 163/195, weights: [2, 0, 1, 2, 0, 1], discriminant: 1
+codim: 4, face: 164/195, weights: [2, 1, 1, 2, 2, 1], discriminant: 1
+codim: 4, face: 165/195, weights: [2, 1, 0, 1, 1, 1], discriminant: 1
+codim: 4, face: 166/195, weights: [1, -1, 1, 0, 0, 0], discriminant: 1
+codim: 4, face: 167/195, weights: [1, -1, 0, -1, -1, 0], discriminant: 1
+codim: 4, face: 168/195, weights: [1, 0, 0, -1, 1, 0], discriminant: 1
+codim: 4, face: 169/195, weights: [1, 0, 1, 0, 1, -1], discriminant: 1
+codim: 4, face: 170/195, weights: [1, -1, 1, 0, -1, -1], discriminant: 1
+codim: 4, face: 171/195, weights: [1, -1, -1, -2, -2, -1], discriminant: 1
+codim: 4, face: 172/195, weights: [1, 0, -1, -2, -1, -2], discriminant: 1
+codim: 4, face: 173/195, weights: [1, -1, 0, -1, -2, -2], discriminant: 1
+codim: 4, face: 174/195, weights: [1, 0, 0, -2, -1, -1], discriminant: 1
+codim: 4, face: 175/195, weights: [1, -1, 1, -1, -2, -1], discriminant: 1
+codim: 4, face: 176/195, weights: [1, 0, 1, -1, -1, -2], discriminant: 1
+codim: 4, face: 177/195, weights: [2, 0, 2, 1, 0, 1], discriminant: 1
+codim: 4, face: 178/195, weights: [2, 1, 2, 1, 2, 1], discriminant: 1
+codim: 4, face: 179/195, weights: [2, 1, 1, 0, 1, 1], discriminant: 1
+codim: 4, face: 180/195, weights: [2, 2, 2, 2, 3, 0], discriminant: 1
+codim: 4, face: 181/195, weights: [2, 2, 2, 3, 2, 0], discriminant: 1
+codim: 4, face: 182/195, weights: [2, 2, 3, 2, 2, 0], discriminant: 1
+codim: 4, face: 183/195, weights: [1, 1, -1, 0, 0, 0], discriminant: 1
+codim: 4, face: 184/195, weights: [1, 0, -1, -1, -1, 0], discriminant: 1
+codim: 4, face: 185/195, weights: [1, 0, 0, 1, -1, 0], discriminant: 1
+codim: 4, face: 186/195, weights: [1, 1, -1, -1, 0, -1], discriminant: 1
+codim: 4, face: 187/195, weights: [1, 1, 0, 1, 0, -1], discriminant: 1
+codim: 4, face: 188/195, weights: [1, 1, -1, -2, -1, -1], discriminant: 1
+codim: 4, face: 189/195, weights: [1, 0, 0, -1, -2, -1], discriminant: 1
+codim: 4, face: 190/195, weights: [1, 1, 0, -1, -1, -2], discriminant: 1
+codim: 4, face: 191/195, weights: [2, 2, 0, 0, 1, 1], discriminant: 1
+codim: 4, face: 192/195, weights: [2, 2, 1, 2, 1, 1], discriminant: 1
+codim: 4, face: 193/195, weights: [2, 1, 1, 1, 0, 1], discriminant: 1
+codim: 4, face: 194/195, weights: [2, 3, 2, 2, 2, 0], discriminant: 1
+codim: 4, face: 195/195, weights: [2, 2, 2, 0, 0, 0], discriminant: 1
+codim: 3, face: 1/174, weights: [-2, -2, -1, 0, -1, 0], discriminant: 1
+codim: 3, face: 2/174, weights: [-2, -1, -1, 0, 1, 0], discriminant: s34
+codim: 3, face: 3/174, weights: [-1, -1, 1, 0, -1, 0], discriminant: s34 - s51
+codim: 3, face: 4/174, weights: [-1, 0, 1, 0, 1, 0], discriminant: s34
+codim: 3, face: 5/174, weights: [-1, -2, -1, 0, 0, 0], discriminant: 1
+codim: 3, face: 6/174, weights: [0, -1, 1, 0, 0, 0], discriminant: -1/4*m1*s34 + s12^2 - 1/2*s12*s51 - 1/4*s51^2
+codim: 3, face: 7/174, weights: [-3, -2, -2, -1, -1, -1], discriminant: 1
+codim: 3, face: 8/174, weights: [-2, -2, -1, -1, -2, -1], discriminant: 1
+codim: 3, face: 9/174, weights: [-2, -3, -2, -1, -2, -1], discriminant: 1
+codim: 3, face: 10/174, weights: [-2, -1, -1, -1, 0, -1], discriminant: 1
+codim: 3, face: 11/174, weights: [-2, -2, -2, -1, 0, -1], discriminant: 1
+codim: 3, face: 12/174, weights: [-2, -1, 0, -1, -1, -1], discriminant: 1
+codim: 3, face: 13/174, weights: [-1, -2, 0, -1, -2, -1], discriminant: 1
+codim: 3, face: 14/174, weights: [-1, -1, 0, -1, 0, -1], discriminant: 1
+codim: 3, face: 15/174, weights: [-1, -2, -1, -1, -1, -1], discriminant: 1
+codim: 3, face: 16/174, weights: [-2, -1, -1, 0, 0, 1], discriminant: 1
+codim: 3, face: 17/174, weights: [-1, -1, 0, 0, -1, 1], discriminant: 1
+codim: 3, face: 18/174, weights: [-1, -2, -1, 0, -1, 1], discriminant: 1
+codim: 3, face: 19/174, weights: [-1, 0, 0, 0, 1, 1], discriminant: 1
+codim: 3, face: 20/174, weights: [-1, -1, -1, 0, 1, 1], discriminant: 1
+codim: 3, face: 21/174, weights: [-1, 0, 1, 0, 0, 1], discriminant: 1
+codim: 3, face: 22/174, weights: [0, -1, 1, 0, -1, 1], discriminant: s34 - s51
+codim: 3, face: 23/174, weights: [0, 0, 1, 0, 1, 1], discriminant: 1
+codim: 3, face: 24/174, weights: [0, -1, 0, 0, 0, 1], discriminant: 1
+codim: 3, face: 25/174, weights: [-2, -1, -2, -1, 0, 0], discriminant: 1
+codim: 3, face: 26/174, weights: [-2, -1, -2, -2, -1, -1], discriminant: 1
+codim: 3, face: 27/174, weights: [-2, -2, -3, -2, -1, -1], discriminant: 1
+codim: 3, face: 28/174, weights: [-1, 0, -1, -1, 0, 1], discriminant: 1
+codim: 3, face: 29/174, weights: [-1, -1, -2, -1, 0, 1], discriminant: 1
+codim: 3, face: 30/174, weights: [-1, -2, -2, -2, -2, -1], discriminant: m1^2*s23^2 - 2*m1^2*s23*s51 + m1^2*s51^2 + 2*m1*s12*s23^2 - 2*m1*s12*s23*s51 + m1*s12*s51^2 - 2*m1*s23^2*s34 + 2*m1*s23*s34*s45 - 2*m1*s23*s34*s51 + m1*s23*s45*s51 - 2*m1*s34*s45*s51 + 4*m1*s45*s51^2 - 2*s12^2*s23^2 - 2*s12^2*s23*s51 + 2*s12^2*s51^2 - 2*s12*s23^2*s34 + 2*s12*s23*s34*s45 - 2*s12*s23*s34*s51 + 2*s12*s23*s45*s51 + 2*s12*s34*s45*s51 - 2*s12*s45*s51^2 + s23^2*s34^2 - 2*s23*s34^2*s45 + s23*s34*s45*s51 + 2*s34^2*s45^2 - 2*s34*s45^2*s51 + s45^2*s51^2
+codim: 3, face: 31/174, weights: [0, -1, -1, -1, -1, 1], discriminant: 1
+codim: 3, face: 32/174, weights: [-1, -2, -2, -1, -1, 0], discriminant: 1
+codim: 3, face: 33/174, weights: [-1, 0, -1, -1, 1, 0], discriminant: s34
+codim: 3, face: 34/174, weights: [-1, -1, -2, -1, 1, 0], discriminant: 1
+codim: 3, face: 35/174, weights: [-1, -1, -2, -2, 0, -1], discriminant: 1
+codim: 3, face: 36/174, weights: [0, 0, -1, -1, 1, 1], discriminant: s34
+codim: 3, face: 37/174, weights: [-1, 0, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 38/174, weights: [-1, -1, -1, -2, -1, -1], discriminant: 1
+codim: 3, face: 39/174, weights: [0, 0, 0, -1, 0, 1], discriminant: 1
+codim: 3, face: 40/174, weights: [0, -1, 0, -1, -1, 0], discriminant: 1
+codim: 3, face: 41/174, weights: [0, 0, 0, -1, 1, 0], discriminant: -1/4*m1*s34 + s12^2 - 1/2*s12*s51 - 1/4*s51^2
+codim: 3, face: 42/174, weights: [0, -1, -1, -1, 0, 0], discriminant: 1
+codim: 3, face: 43/174, weights: [-2, -1, -1, 1, 0, 0], discriminant: s23
+codim: 3, face: 44/174, weights: [-1, -1, 0, 1, -1, 0], discriminant: s23
+codim: 3, face: 45/174, weights: [-1, -2, -1, 1, -1, 0], discriminant: 1
+codim: 3, face: 46/174, weights: [-1, 1, 1, 1, 2, 0], discriminant: 1
+codim: 3, face: 47/174, weights: [-1, 1, 1, 2, 1, 0], discriminant: 1
+codim: 3, face: 48/174, weights: [-1, -1, -1, 1, 1, 0], discriminant: s12 + s23 - s45
+codim: 3, face: 49/174, weights: [0, 1, 1, 2, 2, 0], discriminant: 1
+codim: 3, face: 50/174, weights: [-1, 1, 2, 1, 1, 0], discriminant: 1
+codim: 3, face: 51/174, weights: [0, 1, 2, 1, 2, 0], discriminant: 1
+codim: 3, face: 52/174, weights: [0, 0, 2, 2, 0, 0], discriminant: 1
+codim: 3, face: 53/174, weights: [0, -1, 0, 1, 0, 0], discriminant: 1
+codim: 3, face: 54/174, weights: [-2, -1, -1, 0, -1, -1], discriminant: 1
+codim: 3, face: 55/174, weights: [-2, -2, -2, 0, -1, -1], discriminant: 1
+codim: 3, face: 56/174, weights: [-1, -2, -1, 0, -2, -1], discriminant: 1
+codim: 3, face: 57/174, weights: [-2, 0, 0, 0, 0, -2], discriminant: m1
+codim: 3, face: 58/174, weights: [-1, -1, -1, -1, 0, -2], discriminant: 1
+codim: 3, face: 59/174, weights: [0, 1, 1, 1, 2, -1], discriminant: 1
+codim: 3, face: 60/174, weights: [-1, -1, -1, 0, -1, -2], discriminant: 1
+codim: 3, face: 61/174, weights: [0, 1, 1, 2, 1, -1], discriminant: 1
+codim: 3, face: 62/174, weights: [0, 0, 0, 1, 1, -1], discriminant: m1 - s12 - s23 + s45
+codim: 3, face: 63/174, weights: [-1, -1, 0, -1, -1, -2], discriminant: 1
+codim: 3, face: 64/174, weights: [0, 1, 2, 1, 1, -1], discriminant: 1
+codim: 3, face: 65/174, weights: [0, 0, 1, 0, 1, -1], discriminant: m1 - s12 + s34 - s51
+codim: 3, face: 66/174, weights: [-1, -2, -1, -1, -2, -2], discriminant: 1
+codim: 3, face: 67/174, weights: [0, -1, 0, 1, -1, -1], discriminant: m1 - s12 - s23
+codim: 3, face: 68/174, weights: [0, -1, 1, 0, -1, -1], discriminant: m1 - s12 + s34 - s51
+codim: 3, face: 69/174, weights: [0, -1, 0, 0, 0, -1], discriminant: 1
+codim: 3, face: 70/174, weights: [-1, 0, 0, 1, 0, 1], discriminant: 1
+codim: 3, face: 71/174, weights: [-1, -1, -1, 1, 0, 1], discriminant: 1
+codim: 3, face: 72/174, weights: [0, -1, 0, 1, -1, 1], discriminant: s23
+codim: 3, face: 73/174, weights: [0, 2, 2, 2, 2, 2], discriminant: 1
+codim: 3, face: 74/174, weights: [1, 1, 1, 1, 2, 2], discriminant: 1
+codim: 3, face: 75/174, weights: [1, 2, 2, 2, 3, 1], discriminant: 1
+codim: 3, face: 76/174, weights: [1, 1, 1, 2, 1, 2], discriminant: 1
+codim: 3, face: 77/174, weights: [1, 2, 2, 3, 2, 1], discriminant: 1
+codim: 3, face: 78/174, weights: [1, 1, 1, 2, 2, 1], discriminant: 1
+codim: 3, face: 79/174, weights: [1, 1, 2, 1, 1, 2], discriminant: 1
+codim: 3, face: 80/174, weights: [1, 2, 3, 2, 2, 1], discriminant: 1
+codim: 3, face: 81/174, weights: [1, 1, 2, 1, 2, 1], discriminant: 1
+codim: 3, face: 82/174, weights: [1, 0, 1, 1, 0, 2], discriminant: 1
+codim: 3, face: 83/174, weights: [1, 0, 1, 2, 0, 1], discriminant: 1
+codim: 3, face: 84/174, weights: [1, 0, 2, 1, 0, 1], discriminant: 1
+codim: 3, face: 85/174, weights: [1, 0, 1, 1, 1, 1], discriminant: 1
+codim: 3, face: 86/174, weights: [-1, 1, -1, -1, 0, 0], discriminant: s23 - s51
+codim: 3, face: 87/174, weights: [-1, 1, 0, 1, 0, 0], discriminant: s23
+codim: 3, face: 88/174, weights: [-1, -1, -2, 0, 0, 0], discriminant: 1
+codim: 3, face: 89/174, weights: [0, 1, -1, 0, 0, 0], discriminant: m1^2 - 2*m1*s23 + m1*s45 - 2*s23^2 - 2*s23*s45 + s45^2
+codim: 3, face: 90/174, weights: [-2, 0, -1, -1, -1, -1], discriminant: 1
+codim: 3, face: 91/174, weights: [-1, 0, -2, -2, -1, -1], discriminant: 1
+codim: 3, face: 92/174, weights: [-1, 0, -1, 0, -1, -1], discriminant: 1
+codim: 3, face: 93/174, weights: [-1, -1, -2, -1, -1, -1], discriminant: 1
+codim: 3, face: 94/174, weights: [-1, 1, 0, 0, 0, 1], discriminant: 1
+codim: 3, face: 95/174, weights: [0, 1, -1, -1, 0, 1], discriminant: s23 - s51
+codim: 3, face: 96/174, weights: [0, 1, 0, 1, 0, 1], discriminant: 1
+codim: 3, face: 97/174, weights: [0, 0, -1, 0, 0, 1], discriminant: 1
+codim: 3, face: 98/174, weights: [-1, 0, 0, 0, -1, 0], discriminant: 1
+codim: 3, face: 99/174, weights: [-1, -1, -1, -1, -2, -1], discriminant: 1
+codim: 3, face: 100/174, weights: [0, 0, 0, 0, -1, 1], discriminant: 1
+codim: 3, face: 101/174, weights: [0, 0, -1, -1, -1, 0], discriminant: 1
+codim: 3, face: 102/174, weights: [0, 0, 0, 1, -1, 0], discriminant: m1^2 - 2*m1*s23 + m1*s45 - 2*s23^2 - 2*s23*s45 + s45^2
+codim: 3, face: 103/174, weights: [0, -1, -1, 0, -1, 0], discriminant: 1
+codim: 3, face: 104/174, weights: [-1, 2, 1, 1, 1, 0], discriminant: 1
+codim: 3, face: 105/174, weights: [0, 2, 0, 0, 2, 0], discriminant: 1
+codim: 3, face: 106/174, weights: [0, 2, 1, 2, 1, 0], discriminant: 1
+codim: 3, face: 107/174, weights: [0, 0, -1, 0, 1, 0], discriminant: 1
+codim: 3, face: 108/174, weights: [-1, 0, -1, -1, -1, -2], discriminant: 1
+codim: 3, face: 109/174, weights: [0, 2, 1, 1, 1, -1], discriminant: 1
+codim: 3, face: 110/174, weights: [-1, -1, -2, -2, -1, -2], discriminant: 1
+codim: 3, face: 111/174, weights: [0, 0, -1, -1, 1, -1], discriminant: s23 + s34 - s45 - s51
+codim: 3, face: 112/174, weights: [0, 1, -1, -1, 0, -1], discriminant: s45
+codim: 3, face: 113/174, weights: [0, 1, 0, 1, 0, -1], discriminant: s45
+codim: 3, face: 114/174, weights: [0, 0, -1, 0, 0, -1], discriminant: 1
+codim: 3, face: 115/174, weights: [1, 2, 1, 1, 1, 2], discriminant: 1
+codim: 3, face: 116/174, weights: [1, 3, 2, 2, 2, 1], discriminant: 1
+codim: 3, face: 117/174, weights: [1, 1, 0, 0, 1, 2], discriminant: 1
+codim: 3, face: 118/174, weights: [1, 1, 0, 0, 2, 1], discriminant: 1
+codim: 3, face: 119/174, weights: [1, 2, 0, 0, 1, 1], discriminant: 1
+codim: 3, face: 120/174, weights: [1, 2, 1, 2, 1, 1], discriminant: 1
+codim: 3, face: 121/174, weights: [1, 1, 0, 1, 1, 1], discriminant: 1
+codim: 3, face: 122/174, weights: [-1, 1, 1, 0, 0, 0], discriminant: s51
+codim: 3, face: 123/174, weights: [0, 1, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 124/174, weights: [-1, -1, 0, -2, -2, -2], discriminant: 1
+codim: 3, face: 125/174, weights: [-1, 0, -1, -2, -2, -2], discriminant: 1
+codim: 3, face: 126/174, weights: [0, 1, 1, -1, -1, -1], discriminant: m1 - s51
+codim: 3, face: 127/174, weights: [-1, -1, -2, -3, -2, -2], discriminant: 1
+codim: 3, face: 128/174, weights: [0, 0, 0, -2, -1, -1], discriminant: 1
+codim: 3, face: 129/174, weights: [0, 1, -1, -2, -1, -1], discriminant: 1
+codim: 3, face: 130/174, weights: [0, 1, 1, 0, 0, 1], discriminant: 1
+codim: 3, face: 131/174, weights: [0, 0, 1, 0, -1, 0], discriminant: 1
+codim: 3, face: 132/174, weights: [-1, -2, -1, -2, -3, -2], discriminant: 1
+codim: 3, face: 133/174, weights: [0, -1, 1, -1, -2, -1], discriminant: 1
+codim: 3, face: 134/174, weights: [0, 0, 0, -1, -2, -1], discriminant: 1
+codim: 3, face: 135/174, weights: [0, -1, -1, -2, -2, -1], discriminant: 1
+codim: 3, face: 136/174, weights: [0, 2, 2, 1, 1, 0], discriminant: 1
+codim: 3, face: 137/174, weights: [-1, -1, -1, -2, -2, -3], discriminant: 1
+codim: 3, face: 138/174, weights: [0, 0, 1, -1, -1, -2], discriminant: m1 - s12 + s34 - s51
+codim: 3, face: 139/174, weights: [0, 1, 0, -1, -1, -2], discriminant: s45
+codim: 3, face: 140/174, weights: [0, 0, -1, -2, -1, -2], discriminant: 1
+codim: 3, face: 141/174, weights: [1, 2, 2, 1, 1, 1], discriminant: 1
+codim: 3, face: 142/174, weights: [1, 1, 1, 0, 1, 1], discriminant: 1
+codim: 3, face: 143/174, weights: [0, -1, 0, -1, -2, -2], discriminant: 1
+codim: 3, face: 144/174, weights: [1, 1, 1, 1, 0, 1], discriminant: 1
+codim: 3, face: 145/174, weights: [1, -1, 0, 0, 0, 0], discriminant: 1
+codim: 3, face: 146/174, weights: [1, -1, -1, -1, -1, 0], discriminant: 1
+codim: 3, face: 147/174, weights: [1, 0, -1, -1, 1, 0], discriminant: s23 + s34 - s45 - s51
+codim: 3, face: 148/174, weights: [1, -1, 0, 1, -1, 0], discriminant: m1 - s12 - s23
+codim: 3, face: 149/174, weights: [1, 0, 0, 1, 1, 0], discriminant: 1
+codim: 3, face: 150/174, weights: [1, 0, -1, 0, 0, 0], discriminant: 1
+codim: 3, face: 151/174, weights: [1, -1, 0, 0, -1, -1], discriminant: 1
+codim: 3, face: 152/174, weights: [1, 0, 0, 0, 1, -1], discriminant: 1
+codim: 3, face: 153/174, weights: [1, 0, -1, -1, 0, -1], discriminant: 1
+codim: 3, face: 154/174, weights: [1, 0, 0, 1, 0, -1], discriminant: 1
+codim: 3, face: 155/174, weights: [2, 0, 1, 1, 0, 1], discriminant: 1
+codim: 3, face: 156/174, weights: [2, 1, 1, 1, 2, 1], discriminant: 1
+codim: 3, face: 157/174, weights: [2, 1, 0, 0, 1, 1], discriminant: 1
+codim: 3, face: 158/174, weights: [2, 1, 1, 2, 1, 1], discriminant: 1
+codim: 3, face: 159/174, weights: [1, -1, 1, 0, -1, 0], discriminant: m1 - s12 + s34 - s51
+codim: 3, face: 160/174, weights: [1, 0, 1, 0, 1, 0], discriminant: 1
+codim: 3, face: 161/174, weights: [1, 0, 0, -1, 0, 0], discriminant: 1
+codim: 3, face: 162/174, weights: [1, 0, 1, 0, 0, -1], discriminant: 1
+codim: 3, face: 163/174, weights: [1, 0, -1, -2, -1, -1], discriminant: 1
+codim: 3, face: 164/174, weights: [1, -1, 0, -1, -2, -1], discriminant: 1
+codim: 3, face: 165/174, weights: [1, 0, 0, -1, -1, -2], discriminant: 1
+codim: 3, face: 166/174, weights: [1, 0, 1, -1, -1, -1], discriminant: 1
+codim: 3, face: 167/174, weights: [2, 1, 2, 1, 1, 1], discriminant: 1
+codim: 3, face: 168/174, weights: [2, 2, 2, 2, 2, 0], discriminant: 1
+codim: 3, face: 169/174, weights: [1, 1, -1, -1, 0, 0], discriminant: s45
+codim: 3, face: 170/174, weights: [1, 1, 0, 1, 0, 0], discriminant: 1
+codim: 3, face: 171/174, weights: [1, 0, 0, 0, -1, 0], discriminant: 1
+codim: 3, face: 172/174, weights: [1, 1, 0, 0, 0, -1], discriminant: 1
+codim: 3, face: 173/174, weights: [1, 1, 0, -1, -1, -1], discriminant: 1
+codim: 3, face: 174/174, weights: [2, 2, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 1/76, weights: [-2, -1, -1, 0, 0, 0], discriminant: 1
+codim: 2, face: 2/76, weights: [-1, -1, 0, 0, -1, 0], discriminant: 1
+codim: 2, face: 3/76, weights: [-1, -2, -1, 0, -1, 0], discriminant: 1
+codim: 2, face: 4/76, weights: [-1, 0, 0, 0, 1, 0], discriminant: s34
+codim: 2, face: 5/76, weights: [-1, -1, -1, 0, 1, 0], discriminant: 1
+codim: 2, face: 6/76, weights: [-1, 0, 1, 0, 0, 0], discriminant: 1
+codim: 2, face: 7/76, weights: [0, -1, 1, 0, -1, 0], discriminant: m1*s34 - s12*s51
+codim: 2, face: 8/76, weights: [0, 0, 1, 0, 1, 0], discriminant: -1/4*m1*s34 + s12^2 - 1/2*s12*s51 - 1/4*s51^2
+codim: 2, face: 9/76, weights: [0, -1, 0, 0, 0, 0], discriminant: m1*s34 + s12*s23 + s12*s45 - s12*s51 - 2*s23^2 + s23*s45 - s23*s51 - s45^2 + s45*s51
+codim: 2, face: 10/76, weights: [-2, -1, -1, -1, -1, -1], discriminant: s23 + s34 - s51
+codim: 2, face: 11/76, weights: [-2, -2, -2, -1, -1, -1], discriminant: 1
+codim: 2, face: 12/76, weights: [-1, -2, -1, -1, -2, -1], discriminant: m1*s23 + m1*s34 + m1*s51 + s12*s23 - s12*s34 - s12*s51 + 2*s23*s34 + 2*s23*s51
+codim: 2, face: 13/76, weights: [-1, -1, -1, -1, 0, -1], discriminant: 1
+codim: 2, face: 14/76, weights: [-1, -1, 0, -1, -1, -1], discriminant: 1
+codim: 2, face: 15/76, weights: [-1, 0, 0, 0, 0, 1], discriminant: s23 + s34 - s51
+codim: 2, face: 16/76, weights: [-1, -1, -1, 0, 0, 1], discriminant: 1
+codim: 2, face: 17/76, weights: [0, -1, 0, 0, -1, 1], discriminant: 1
+codim: 2, face: 18/76, weights: [0, 0, 0, 0, 1, 1], discriminant: 1
+codim: 2, face: 19/76, weights: [0, 0, 1, 0, 0, 1], discriminant: 1
+codim: 2, face: 20/76, weights: [-1, 0, -1, -1, 0, 0], discriminant: 1
+codim: 2, face: 21/76, weights: [-1, -1, -2, -1, 0, 0], discriminant: 1
+codim: 2, face: 22/76, weights: [-1, -1, -2, -2, -1, -1], discriminant: s23 - s45 - s51, s23 + s34 - s51
+codim: 2, face: 23/76, weights: [0, 0, -1, -1, 0, 1], discriminant: 1
+codim: 2, face: 24/76, weights: [0, -1, -1, -1, -1, 0], discriminant: s23 - s45 - s51, m1 - s12
+codim: 2, face: 25/76, weights: [0, 0, -1, -1, 1, 0], discriminant: m1*s34 + s12*s23 + s12*s45 - s12*s51 - 2*s23^2 + s23*s45 - s23*s51 - s45^2 + s45*s51
+codim: 2, face: 26/76, weights: [0, 0, 0, -1, 0, 0], discriminant: m1*s34 - s12*s51
+codim: 2, face: 27/76, weights: [-1, 0, 0, 1, 0, 0], discriminant: s23
+codim: 2, face: 28/76, weights: [-1, -1, -1, 1, 0, 0], discriminant: 1
+codim: 2, face: 29/76, weights: [0, -1, 0, 1, -1, 0], discriminant: m1*s12 - m1*s45 - s12^2 - s12*s23 + s12*s45
+codim: 2, face: 30/76, weights: [-1, 1, 1, 1, 1, 0], discriminant: 1
+codim: 2, face: 31/76, weights: [0, 1, 1, 1, 2, 0], discriminant: 1
+codim: 2, face: 32/76, weights: [0, 1, 1, 2, 1, 0], discriminant: 1
+codim: 2, face: 33/76, weights: [0, 0, 0, 1, 1, 0], discriminant: 1
+codim: 2, face: 34/76, weights: [0, 1, 2, 1, 1, 0], discriminant: 1
+codim: 2, face: 35/76, weights: [-1, -1, -1, 0, -1, -1], discriminant: 1
+codim: 2, face: 36/76, weights: [-1, -1, -1, -1, -1, -2], discriminant: s23 + s34 - s51
+codim: 2, face: 37/76, weights: [0, 1, 1, 1, 1, -1], discriminant: 1
+codim: 2, face: 38/76, weights: [0, 0, 0, 0, 1, -1], discriminant: 1
+codim: 2, face: 39/76, weights: [0, 0, 0, 1, 0, -1], discriminant: 1
+codim: 2, face: 40/76, weights: [0, 0, 1, 0, 0, -1], discriminant: m1 - s12 + s34 - s51
+codim: 2, face: 41/76, weights: [0, -1, 0, 0, -1, -1], discriminant: 1
+codim: 2, face: 42/76, weights: [0, 0, 0, 1, 0, 1], discriminant: 1
+codim: 2, face: 43/76, weights: [1, 1, 1, 1, 1, 2], discriminant: 1
+codim: 2, face: 44/76, weights: [1, 2, 2, 2, 2, 1], discriminant: 1
+codim: 2, face: 45/76, weights: [1, 1, 1, 1, 2, 1], discriminant: 1
+codim: 2, face: 46/76, weights: [1, 1, 1, 2, 1, 1], discriminant: 1
+codim: 2, face: 47/76, weights: [1, 1, 2, 1, 1, 1], discriminant: 1
+codim: 2, face: 48/76, weights: [1, 0, 1, 1, 0, 1], discriminant: 1
+codim: 2, face: 49/76, weights: [-1, 1, 0, 0, 0, 0], discriminant: 1
+codim: 2, face: 50/76, weights: [0, 1, -1, -1, 0, 0], discriminant: m1*s23 - m1*s51 - s23*s51 + s45*s51 + s51^2
+codim: 2, face: 51/76, weights: [0, 1, 0, 1, 0, 0], discriminant: m1^2 - 2*m1*s23 + m1*s45 - 2*s23^2 - 2*s23*s45 + s45^2
+codim: 2, face: 52/76, weights: [0, 0, -1, 0, 0, 0], discriminant: m1*s12 - m1*s45 - s12^2 - s12*s23 + s12*s45
+codim: 2, face: 53/76, weights: [-1, 0, -1, -1, -1, -1], discriminant: 1
+codim: 2, face: 54/76, weights: [0, 1, 0, 0, 0, 1], discriminant: 1
+codim: 2, face: 55/76, weights: [0, 0, 0, 0, -1, 0], discriminant: m1*s23 - m1*s51 - s23*s51 + s45*s51 + s51^2
+codim: 2, face: 56/76, weights: [0, 2, 1, 1, 1, 0], discriminant: 1
+codim: 2, face: 57/76, weights: [0, 1, 0, 0, 0, -1], discriminant: s45
+codim: 2, face: 58/76, weights: [0, 0, -1, -1, 0, -1], discriminant: 1
+codim: 2, face: 59/76, weights: [1, 2, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 60/76, weights: [1, 1, 0, 0, 1, 1], discriminant: 1
+codim: 2, face: 61/76, weights: [0, 1, 1, 0, 0, 0], discriminant: 1
+codim: 2, face: 62/76, weights: [-1, -1, -1, -2, -2, -2], discriminant: 1
+codim: 2, face: 63/76, weights: [0, 0, 1, -1, -1, -1], discriminant: 1
+codim: 2, face: 64/76, weights: [0, 1, 0, -1, -1, -1], discriminant: 1
+codim: 2, face: 65/76, weights: [0, 0, -1, -2, -1, -1], discriminant: 1
+codim: 2, face: 66/76, weights: [0, -1, 0, -1, -2, -1], discriminant: 1
+codim: 2, face: 67/76, weights: [0, 0, 0, -1, -1, -2], discriminant: 1
+codim: 2, face: 68/76, weights: [1, -1, 0, 0, -1, 0], discriminant: 1
+codim: 2, face: 69/76, weights: [1, 0, 0, 0, 1, 0], discriminant: 1
+codim: 2, face: 70/76, weights: [1, 0, -1, -1, 0, 0], discriminant: 1
+codim: 2, face: 71/76, weights: [1, 0, 0, 1, 0, 0], discriminant: 1
+codim: 2, face: 72/76, weights: [1, 0, 0, 0, 0, -1], discriminant: s23 + s34 - s51
+codim: 2, face: 73/76, weights: [2, 1, 1, 1, 1, 1], discriminant: 1
+codim: 2, face: 74/76, weights: [1, 0, 1, 0, 0, 0], discriminant: 1
+codim: 2, face: 75/76, weights: [1, 0, 0, -1, -1, -1], discriminant: 1
+codim: 2, face: 76/76, weights: [1, 1, 0, 0, 0, 0], discriminant: 1
+codim: 1, face: 1/15, weights: [-1, 0, 0, 0, 0, 0], discriminant: s23 + s34 - s51
+codim: 1, face: 2/15, weights: [-1, -1, -1, 0, 0, 0], discriminant: 1
+codim: 1, face: 3/15, weights: [0, -1, 0, 0, -1, 0], discriminant: -8*m1^6*s23*s34 + m1^6*s34^2 - 4*m1^6*s34*s51 + 4*m1^6*s51^2 + 22*m1^5*s12*s23*s34 + 4*m1^5*s12*s23*s51 - 2*m1^5*s12*s34^2 + 10*m1^5*s12*s34*s51 - 12*m1^5*s12*s51^2 - 8*m1^5*s23*s34^2 + 12*m1^5*s23*s34*s45 - 4*m1^5*s23*s34*s51 - 8*m1^5*s23*s51^2 + m1^5*s34^3 + m1^5*s34^2*s45 - 4*m1^5*s34^2*s51 + 2*m1^5*s34*s45*s51 + 4*m1^5*s34*s51^2 - 8*m1^5*s45*s51^2 + m1^4*s12^2*s23^2 - 20*m1^4*s12^2*s23*s34 - 10*m1^4*s12^2*s23*s51 + m1^4*s12^2*s34^2 - 8*m1^4*s12^2*s34*s51 + 13*m1^4*s12^2*s51^2 + 8*m1^4*s12*s23^2*s34 - 4*m1^4*s12*s23^2*s51 + 13*m1^4*s12*s23*s34^2 - 12*m1^4*s12*s23*s34*s45 + 8*m1^4*s12*s23*s34*s51 - 6*m1^4*s12*s23*s45*s51 + 16*m1^4*s12*s23*s51^2 - m1^4*s12*s34^3 - 4*m1^4*s12*s34^2*s45 + 7*m1^4*s12*s34^2*s51 + 4*m1^4*s12*s34*s45*s51 - 12*m1^4*s12*s34*s51^2 + 14*m1^4*s12*s45*s51^2 + 4*m1^4*s12*s51^3 - 8*m1^4*s23^2*s34^2 - 16*m1^4*s23^2*s34*s51 + 4*m1^4*s23^2*s51^2 - m1^4*s23*s34^3 - 3*m1^4*s23*s34^2*s45 - 6*m1^4*s23*s34^2*s51 - 6*m1^4*s23*s34*s45^2 - 30*m1^4*s23*s34*s45*s51 - 12*m1^4*s23*s34*s51^2 + 12*m1^4*s23*s45*s51^2 + 8*m1^4*s23*s51^3 + 1/4*m1^4*s34^4 + 5/2*m1^4*s34^3*s45 - m1^4*s34^3*s51 - 3/4*m1^4*s34^2*s45^2 + m1^4*s34^2*s51^2 + 3*m1^4*s34*s45^2*s51 - 18*m1^4*s34*s45*s51^2 + 6*m1^4*s45^2*s51^2 + 16*m1^4*s45*s51^3 - 2*m1^3*s12^3*s23^2 + 6*m1^3*s12^3*s23*s34 + 8*m1^3*s12^3*s23*s51 + 2*m1^3*s12^3*s34*s51 - 6*m1^3*s12^3*s51^2 - 13*m1^3*s12^2*s23^2*s34 - m1^3*s12^2*s23^2*s45 + 4*m1^3*s12^2*s23^2*s51 - 5*m1^3*s12^2*s23*s34^2 - 8*m1^3*s12^2*s23*s34*s45 - 2*m1^3*s12^2*s23*s34*s51 + 6*m1^3*s12^2*s23*s45*s51 - 4*m1^3*s12^2*s23*s51^2 + 3*m1^3*s12^2*s34^2*s45 - 3*m1^3*s12^2*s34^2*s51 - 10*m1^3*s12^2*s34*s45*s51 + 11*m1^3*s12^2*s34*s51^2 - 5*m1^3*s12^2*s45*s51^2 - 8*m1^3*s12^2*s51^3 + 18*m1^3*s12*s23^2*s34^2 - 17*m1^3*s12*s23^2*s34*s45 + 32*m1^3*s12*s23^2*s34*s51 + 4*m1^3*s12*s23^2*s45*s51 + 8*m1^3*s12*s23^2*s51^2 + 37/2*m1^3*s12*s23*s34^2*s45 + 7*m1^3*s12*s23*s34^2*s51 - 9/2*m1^3*s12*s23*s34*s45^2 + 73*m1^3*s12*s23*s34*s45*s51 + 10*m1^3*s12*s23*s34*s51^2 + 3*m1^3*s12*s23*s45^2*s51 + 14*m1^3*s12*s23*s45*s51^2 - 24*m1^3*s12*s23*s51^3 - 7/2*m1^3*s12*s34^3*s45 + m1^3*s12*s34^3*s51 - 3/2*m1^3*s12*s34^2*s45^2 + 15/2*m1^3*s12*s34^2*s45*s51 - 3*m1^3*s12*s34^2*s51^2 - 15/2*m1^3*s12*s34*s45^2*s51 + 26*m1^3*s12*s34*s45*s51^2 + 2*m1^3*s12*s34*s51^3 - 3*m1^3*s12*s45^2*s51^2 - 42*m1^3*s12*s45*s51^3 - 4*m1^3*s23^2*s34^3 + 26*m1^3*s23^2*s34^2*s45 - 12*m1^3*s23^2*s34^2*s51 + 34*m1^3*s23^2*s34*s45*s51 - 12*m1^3*s23^2*s34*s51^2 - 4*m1^3*s23^2*s45*s51^2 - 16*m1^3*s23^2*s51^3 + 1/2*m1^3*s23*s34^4 - 2*m1^3*s23*s34^3*s45 - 2*m1^3*s23*s34^3*s51 + 45/2*m1^3*s23*s34^2*s45^2 - 11*m1^3*s23*s34^2*s45*s51 - 4*m1^3*s23*s34^2*s51^2 + m1^3*s23*s34*s45^3 + 33*m1^3*s23*s34*s45^2*s51 - 40*m1^3*s23*s34*s45*s51^2 + 4*m1^3*s23*s34*s51^3 - 6*m1^3*s23*s45^2*s51^2 - 52*m1^3*s23*s45*s51^3 + 1/2*m1^3*s34^4*s45 + 3/2*m1^3*s34^3*s45*s51 - 1/2*m1^3*s34^2*s45^3 + 15*m1^3*s34^2*s45^2*s51 - 7*m1^3*s34^2*s45*s51^2 - 5/2*m1^3*s34*s45^3*s51 - 9*m1^3*s34*s45^2*s51^2 - 2*m1^3*s45^3*s51^2 - 24*m1^3*s45^2*s51^3 + 8*m1^3*s45*s51^4 + m1^2*s12^4*s23^2 - 2*m1^2*s12^4*s23*s51 + m1^2*s12^4*s51^2 - m1^2*s12^3*s23^3 + 5*m1^2*s12^3*s23^2*s34 + 3*m1^2*s12^3*s23^2*s51 + 8*m1^2*s12^3*s23*s34*s45 - 2*m1^2*s12^3*s23*s34*s51 + 2*m1^2*s12^3*s23*s45*s51 - 7*m1^2*s12^3*s23*s51^2 + 4*m1^2*s12^3*s34*s45*s51 - 3*m1^2*s12^3*s34*s51^2 - 2*m1^2*s12^3*s45*s51^2 + 5*m1^2*s12^3*s51^3 - m1^2*s12^2*s23^3*s34 + 6*m1^2*s12^2*s23^3*s51 - 17/2*m1^2*s12^2*s23^2*s34^2 + 35/2*m1^2*s12^2*s23^2*s34*s45 - 17*m1^2*s12^2*s23^2*s34*s51 + 1/4*m1^2*s12^2*s23^2*s45^2 + 12*m1^2*s12^2*s23^2*s45*s51 - 23*m1^2*s12^2*s23^2*s51^2 - 25/2*m1^2*s12^2*s23*s34^2*s45 - m1^2*s12^2*s23*s34^2*s51 + 5*m1^2*s12^2*s23*s34*s45^2 - 51*m1^2*s12^2*s23*s34*s45*s51 + 5*m1^2*s12^2*s23*s34*s51^2 + 3/2*m1^2*s12^2*s23*s45^2*s51 - 50*m1^2*s12^2*s23*s45*s51^2 + 20*m1^2*s12^2*s23*s51^3 + 13/4*m1^2*s12^2*s34^2*s45^2 - 13/2*m1^2*s12^2*s34^2*s45*s51 + 3/2*m1^2*s12^2*s34^2*s51^2 - 9/2*m1^2*s12^2*s34*s45*s51^2 - 3*m1^2*s12^2*s34*s51^3 - 15/4*m1^2*s12^2*s45^2*s51^2 + 34*m1^2*s12^2*s45*s51^3 + m1^2*s12^2*s51^4 + 4*m1^2*s12*s23^3*s34^2 + 4*m1^2*s12*s23^3*s34*s51 - 12*m1^2*s12*s23^3*s51^2 + 5/2*m1^2*s12*s23^2*s34^3 - 33*m1^2*s12*s23^2*s34^2*s45 + 10*m1^2*s12*s23^2*s34^2*s51 + 13/2*m1^2*s12*s23^2*s34*s45^2 - 54*m1^2*s12*s23^2*s34*s45*s51 + 18*m1^2*s12*s23^2*s34*s51^2 - m1^2*s12*s23^2*s45^2*s51 - 48*m1^2*s12*s23^2*s45*s51^2 + 24*m1^2*s12*s23^2*s51^3 + 3/2*m1^2*s12*s23*s34^3*s45 + 3/2*m1^2*s12*s23*s34^3*s51 - 17*m1^2*s12*s23*s34^2*s45^2 + 21/2*m1^2*s12*s23*s34^2*s45*s51 - 2*m1^2*s12*s23*s34^2*s51^2 + 5/2*m1^2*s12*s23*s34*s45^3 - 89/2*m1^2*s12*s23*s34*s45^2*s51 + 76*m1^2*s12*s23*s34*s45*s51^2 - 10*m1^2*s12*s23*s34*s51^3 - 1/2*m1^2*s12*s23*s45^3*s51 - 26*m1^2*s12*s23*s45^2*s51^2 + 100*m1^2*s12*s23*s45*s51^3 + 4*m1^2*s12*s23*s51^4 - 4*m1^2*s12*s34^3*s45^2 + 3/2*m1^2*s12*s34^3*s45*s51 + m1^2*s12*s34^2*s45^3 - 12*m1^2*s12*s34^2*s45^2*s51 + 7/2*m1^2*s12*s34^2*s45*s51^2 - 1/2*m1^2*s12*s34*s45^3*s51 + 31*m1^2*s12*s34*s45^2*s51^2 - 6*m1^2*s12*s34*s45*s51^3 - 3/2*m1^2*s12*s45^3*s51^2 + 39*m1^2*s12*s45^2*s51^3 - 8*m1^2*s12*s45*s51^4 - 2*m1^2*s23^3*s34^3 - 8*m1^2*s23^3*s34^2*s51 - 4*m1^2*s23^3*s34*s51^2 + 8*m1^2*s23^3*s51^3 + 1/4*m1^2*s23^2*s34^4 + 19/2*m1^2*s23^2*s34^3*s45 - 2*m1^2*s23^2*s34^3*s51 - 71/4*m1^2*s23^2*s34^2*s45^2 + 19*m1^2*s23^2*s34^2*s45*s51 - 9*m1^2*s23^2*s34^2*s51^2 - 13*m1^2*s23^2*s34*s45^2*s51 + 38*m1^2*s23^2*s34*s45*s51^2 - 8*m1^2*s23^2*s34*s51^3 + m1^2*s23^2*s45^2*s51^2 + 48*m1^2*s23^2*s45*s51^3 + 4*m1^2*s23^2*s51^4 - 1/2*m1^2*s23*s34^4*s45 - 4*m1^2*s23*s34^3*s45^2 + 7/2*m1^2*s23*s34^3*s45*s51 - 19/2*m1^2*s23*s34^2*s45^3 + 5*m1^2*s23*s34^2*s45^2*s51 - 12*m1^2*s23*s34^2*s45*s51^2 - 17/2*m1^2*s23*s34*s45^3*s51 + 55*m1^2*s23*s34*s45^2*s51^2 - 32*m1^2*s23*s34*s45*s51^3 + m1^2*s23*s45^3*s51^2 + 46*m1^2*s23*s45^2*s51^3 - 16*m1^2*s23*s45*s51^4 + 1/4*m1^2*s34^4*s45^2 - 7/2*m1^2*s34^3*s45^3 + 9/2*m1^2*s34^3*s45^2*s51 + 1/4*m1^2*s34^2*s45^4 + 5*m1^2*s34^2*s45^3*s51 + 1/4*m1^2*s34^2*s45^2*s51^2 + 1/2*m1^2*s34*s45^4*s51 + 41/2*m1^2*s34*s45^3*s51^2 - 12*m1^2*s34*s45^2*s51^3 + 1/4*m1^2*s45^4*s51^2 + 12*m1^2*s45^3*s51^3 - 8*m1^2*s45^2*s51^4 + m1*s12^4*s23^3 + m1*s12^4*s23^2*s45 - 3*m1*s12^4*s23^2*s51 - 2*m1*s12^4*s23*s45*s51 + 3*m1*s12^4*s23*s51^2 + m1*s12^4*s45*s51^2 - m1*s12^4*s51^3 + 3/2*m1*s12^3*s23^3*s45 - 5*m1*s12^3*s23^3*s51 - 7/2*m1*s12^3*s23^2*s34*s45 + m1*s12^3*s23^2*s34*s51 + 1/2*m1*s12^3*s23^2*s45^2 - 33/2*m1*s12^3*s23^2*s45*s51 + 9*m1*s12^3*s23^2*s51^2 + 7/2*m1*s12^3*s23*s34*s45^2 + 6*m1*s12^3*s23*s34*s45*s51 - 2*m1*s12^3*s23*s34*s51^2 - 2*m1*s12^3*s23*s45^2*s51 + 49/2*m1*s12^3*s23*s45*s51^2 - 3*m1*s12^3*s23*s51^3 + 5/2*m1*s12^3*s34*s45^2*s51 - 5/2*m1*s12^3*s34*s45*s51^2 + m1*s12^3*s34*s51^3 + 3/2*m1*s12^3*s45^2*s51^2 - 19/2*m1*s12^3*s45*s51^3 - m1*s12^3*s51^4 - 5/2*m1*s12^2*s23^3*s34^2 - m1*s12^2*s23^3*s34*s45 - 2*m1*s12^2*s23^3*s34*s51 - 9*m1*s12^2*s23^3*s45*s51 + 6*m1*s12^2*s23^3*s51^2 + 13/2*m1*s12^2*s23^2*s34^2*s45 + m1*s12^2*s23^2*s34^2*s51 - m1*s12^2*s23^2*s34*s45^2 + 49/2*m1*s12^2*s23^2*s34*s45*s51 - 7*m1*s12^2*s23^2*s45^2*s51 + 55*m1*s12^2*s23^2*s45*s51^2 - 11/2*m1*s12^2*s23*s34^2*s45^2 + 2*m1*s12^2*s23*s34^2*s45*s51 + 3/2*m1*s12^2*s23*s34^2*s51^2 + 2*m1*s12^2*s23*s34*s45^3 + 3*m1*s12^2*s23*s34*s45^2*s51 - 24*m1*s12^2*s23*s34*s45*s51^2 + 2*m1*s12^2*s23*s34*s51^3 - m1*s12^2*s23*s45^3*s51 + 25*m1*s12^2*s23*s45^2*s51^2 - 43*m1*s12^2*s23*s45*s51^3 - 6*m1*s12^2*s23*s51^4 + 3/2*m1*s12^2*s34^2*s45^3 - 3*m1*s12^2*s34^2*s45^2*s51 + 3/2*m1*s12^2*s34^2*s45*s51^2 + 5/2*m1*s12^2*s34*s45^3*s51 - 19*m1*s12^2*s34*s45^2*s51^2 + 5/2*m1*s12^2*s34*s45*s51^3 + m1*s12^2*s45^3*s51^2 - 16*m1*s12^2*s45^2*s51^3 + m1*s12^2*s45*s51^4 + 3/2*m1*s12*s23^3*s34^3 - 7/2*m1*s12*s23^3*s34^2*s45 + 7*m1*s12*s23^3*s34^2*s51 + 4*m1*s12*s23^3*s34*s45*s51 + 8*m1*s12*s23^3*s34*s51^2 + 18*m1*s12*s23^3*s45*s51^2 + 4*m1*s12*s23^3*s51^3 - 9/2*m1*s12*s23^2*s34^3*s45 + 1/2*m1*s12*s23^2*s34^3*s51 + 15/2*m1*s12*s23^2*s34^2*s45^2 - 19/2*m1*s12*s23^2*s34^2*s45*s51 + m1*s12*s23^2*s34^2*s51^2 + 10*m1*s12*s23^2*s34*s45^2*s51 - 41*m1*s12*s23^2*s34*s45*s51^2 - 4*m1*s12*s23^2*s34*s51^3 + 22*m1*s12*s23^2*s45^2*s51^2 - 54*m1*s12*s23^2*s45*s51^3 - 12*m1*s12*s23^2*s51^4 + 9/2*m1*s12*s23*s34^3*s45^2 - m1*s12*s23*s34^3*s45*s51 - 9/2*m1*s12*s23*s34^2*s45^3 + 15*m1*s12*s23*s34^2*s45^2*s51 + 6*m1*s12*s23*s34^2*s45*s51^2 + 3*m1*s12*s23*s34*s45^3*s51 - 71/2*m1*s12*s23*s34*s45^2*s51^2 + 11*m1*s12*s23*s34*s45*s51^3 + 15/2*m1*s12*s23*s45^3*s51^2 - 46*m1*s12*s23*s45^2*s51^3 + 4*m1*s12*s23*s45*s51^4 - 3/2*m1*s12*s34^3*s45^3 + 1/2*m1*s12*s34^3*s45^2*s51 + 1/2*m1*s12*s34^2*s45^4 - 25/2*m1*s12*s34^2*s45^3*s51 + 5*m1*s12*s34^2*s45^2*s51^2 + m1*s12*s34*s45^4*s51 - 41/2*m1*s12*s34*s45^3*s51^2 + 17/2*m1*s12*s34*s45^2*s51^3 + 1/2*m1*s12*s45^4*s51^2 - 19/2*m1*s12*s45^3*s51^3 + 4*m1*s12*s45^2*s51^4 + 2*m1*s23^3*s34^3*s45 - m1*s23^3*s34^3*s51 + 7*m1*s23^3*s34^2*s45*s51 - 4*m1*s23^3*s34^2*s51^2 - 4*m1*s23^3*s34*s45*s51^2 - 8*m1*s23^3*s34*s51^3 - 12*m1*s23^3*s45*s51^3 - 8*m1*s23^3*s51^4 - 6*m1*s23^2*s34^3*s45^2 + 4*m1*s23^2*s34^3*s45*s51 - 2*m1*s23^2*s34^2*s45^2*s51 + 12*m1*s23^2*s34^2*s45*s51^2 - 16*m1*s23^2*s34*s45^2*s51^2 + 12*m1*s23^2*s34*s45*s51^3 - 20*m1*s23^2*s45^2*s51^3 + 4*m1*s23^2*s45*s51^4 + 6*m1*s23*s34^3*s45^3 - 5*m1*s23*s34^3*s45^2*s51 + m1*s23*s34^2*s45^3*s51 - 2*m1*s23*s34^2*s45^2*s51^2 - 16*m1*s23*s34*s45^3*s51^2 + 11*m1*s23*s34*s45^2*s51^3 - 11*m1*s23*s45^3*s51^3 + 8*m1*s23*s45^2*s51^4 - 2*m1*s34^3*s45^4 + 2*m1*s34^3*s45^3*s51 - 6*m1*s34^2*s45^4*s51 + 6*m1*s34^2*s45^3*s51^2 - 6*m1*s34*s45^4*s51^2 + 6*m1*s34*s45^3*s51^3 - 2*m1*s45^4*s51^3 + 2*m1*s45^3*s51^4 + 1/4*s12^4*s23^4 - 1/2*s12^4*s23^3*s45 - s12^4*s23^3*s51 + 1/4*s12^4*s23^2*s45^2 + 3/2*s12^4*s23^2*s45*s51 + 3/2*s12^4*s23^2*s51^2 - 1/2*s12^4*s23*s45^2*s51 - 3/2*s12^4*s23*s45*s51^2 - s12^4*s23*s51^3 + 1/4*s12^4*s45^2*s51^2 + 1/2*s12^4*s45*s51^3 + 1/4*s12^4*s51^4 - 1/2*s12^3*s23^4*s34 - 2*s12^3*s23^4*s51 + 3/2*s12^3*s23^3*s34*s45 + 3/2*s12^3*s23^3*s34*s51 + 5/2*s12^3*s23^3*s45*s51 + 6*s12^3*s23^3*s51^2 - 3/2*s12^3*s23^2*s34*s45^2 - 5/2*s12^3*s23^2*s34*s45*s51 - 3/2*s12^3*s23^2*s34*s51^2 - 9/2*s12^3*s23^2*s45*s51^2 - 6*s12^3*s23^2*s51^3 + 1/2*s12^3*s23*s34*s45^3 + 1/2*s12^3*s23*s34*s45^2*s51 + 1/2*s12^3*s23*s34*s45*s51^2 + 1/2*s12^3*s23*s34*s51^3 - 1/2*s12^3*s23*s45^3*s51 - s12^3*s23*s45^2*s51^2 + 3/2*s12^3*s23*s45*s51^3 + 2*s12^3*s23*s51^4 + 1/2*s12^3*s34*s45^3*s51 + s12^3*s34*s45^2*s51^2 + 1/2*s12^3*s34*s45*s51^3 + 1/2*s12^3*s45^3*s51^2 + s12^3*s45^2*s51^3 + 1/2*s12^3*s45*s51^4 + 1/4*s12^2*s23^4*s34^2 + 3*s12^2*s23^4*s34*s51 + 6*s12^2*s23^4*s51^2 - s12^2*s23^3*s34^2*s45 - 1/2*s12^2*s23^3*s34^2*s51 - 11/2*s12^2*s23^3*s34*s45*s51 - 6*s12^2*s23^3*s34*s51^2 - 3*s12^2*s23^3*s45*s51^2 - 12*s12^2*s23^3*s51^3 + 3/2*s12^2*s23^2*s34^2*s45^2 + 3/2*s12^2*s23^2*s34^2*s45*s51 + 1/4*s12^2*s23^2*s34^2*s51^2 + 5/2*s12^2*s23^2*s34*s45^2*s51 + 3*s12^2*s23^2*s34*s45*s51^2 + 3*s12^2*s23^2*s34*s51^3 - 11/4*s12^2*s23^2*s45^2*s51^2 + 6*s12^2*s23^2*s51^4 - s12^2*s23*s34^2*s45^3 - 3/2*s12^2*s23*s34^2*s45^2*s51 - 1/2*s12^2*s23*s34^2*s45*s51^2 - 1/2*s12^2*s23*s34*s45^3*s51 + 2*s12^2*s23*s34*s45^2*s51^2 + 5/2*s12^2*s23*s34*s45*s51^3 + 1/2*s12^2*s23*s45^3*s51^2 + 7/2*s12^2*s23*s45^2*s51^3 + 3*s12^2*s23*s45*s51^4 + 1/4*s12^2*s34^2*s45^4 + 1/2*s12^2*s34^2*s45^3*s51 + 1/4*s12^2*s34^2*s45^2*s51^2 + 1/2*s12^2*s34*s45^4*s51 + s12^2*s34*s45^3*s51^2 + 1/2*s12^2*s34*s45^2*s51^3 + 1/4*s12^2*s45^4*s51^2 + 1/2*s12^2*s45^3*s51^3 + 1/4*s12^2*s45^2*s51^4 - s12*s23^4*s34^2*s51 - 6*s12*s23^4*s34*s51^2 - 8*s12*s23^4*s51^3 + 3*s12*s23^3*s34^2*s45*s51 + s12*s23^3*s34^2*s51^2 + 4*s12*s23^3*s34*s45*s51^2 + 6*s12*s23^3*s34*s51^3 - 2*s12*s23^3*s45*s51^3 + 8*s12*s23^3*s51^4 - 3*s12*s23^2*s34^2*s45^2*s51 - 2*s12*s23^2*s34^2*s45*s51^2 + 4*s12*s23^2*s34*s45*s51^3 + 3*s12*s23^2*s45^2*s51^3 + 6*s12*s23^2*s45*s51^4 + s12*s23*s34^2*s45^3*s51 + s12*s23*s34^2*s45^2*s51^2 + 2*s12*s23*s34*s45^3*s51^2 + 2*s12*s23*s34*s45^2*s51^3 + s12*s23*s45^3*s51^3 + s12*s23*s45^2*s51^4 + s23^4*s34^2*s51^2 + 4*s23^4*s34*s51^3 + 4*s23^4*s51^4 - 2*s23^3*s34^2*s45*s51^2 + 2*s23^3*s34*s45*s51^3 + 4*s23^3*s45*s51^4 + s23^2*s34^2*s45^2*s51^2 + 2*s23^2*s34*s45^2*s51^3 + s23^2*s45^2*s51^4
+codim: 1, face: 4/15, weights: [0, 0, 0, 0, 1, 0], discriminant: m1*s34 + s12*s23 + s12*s45 - s12*s51 - 2*s23^2 + s23*s45 - s23*s51 - s45^2 + s45*s51
+codim: 1, face: 5/15, weights: [0, 0, 1, 0, 0, 0], discriminant: m1*s34 - s12*s51
+codim: 1, face: 6/15, weights: [-1, -1, -1, -1, -1, -1], discriminant: s23 + s34 - s51
+codim: 1, face: 7/15, weights: [0, 0, 0, 0, 0, 1], discriminant: s23 + s34 - s51
+codim: 1, face: 8/15, weights: [0, 0, -1, -1, 0, 0], discriminant: -8*m1^4*s23^3*s45 + m1^4*s23^2*s34^2 + 10*m1^4*s23^2*s34*s45 + 4*m1^4*s23^2*s34*s51 + m1^4*s23^2*s45^2 + 20*m1^4*s23^2*s45*s51 + 4*m1^4*s23^2*s51^2 - m1^4*s23*s34^3 - 4*m1^4*s23*s34^2*s45 - 6*m1^4*s23*s34^2*s51 - m1^4*s23*s34*s45^2 - 16*m1^4*s23*s34*s45*s51 - 12*m1^4*s23*s34*s51^2 - 2*m1^4*s23*s45^2*s51 - 16*m1^4*s23*s45*s51^2 - 8*m1^4*s23*s51^3 + 1/4*m1^4*s34^4 + 1/2*m1^4*s34^3*s45 + 2*m1^4*s34^3*s51 + 1/4*m1^4*s34^2*s45^2 + 3*m1^4*s34^2*s45*s51 + 6*m1^4*s34^2*s51^2 + m1^4*s34*s45^2*s51 + 6*m1^4*s34*s45*s51^2 + 8*m1^4*s34*s51^3 + m1^4*s45^2*s51^2 + 4*m1^4*s45*s51^3 + 4*m1^4*s51^4 + 2*m1^3*s12*s23^3*s34 + 18*m1^3*s12*s23^3*s45 + 4*m1^3*s12*s23^3*s51 - 3*m1^3*s12*s23^2*s34^2 - 18*m1^3*s12*s23^2*s34*s45 - 14*m1^3*s12*s23^2*s34*s51 - 3*m1^3*s12*s23^2*s45^2 - 46*m1^3*s12*s23^2*s45*s51 - 16*m1^3*s12*s23^2*s51^2 + m1^3*s12*s23*s34^3 + 11/2*m1^3*s12*s23*s34^2*s45 + 9*m1^3*s12*s23*s34^2*s51 + 5/2*m1^3*s12*s23*s34*s45^2 + 30*m1^3*s12*s23*s34*s45*s51 + 24*m1^3*s12*s23*s34*s51^2 + 6*m1^3*s12*s23*s45^2*s51 + 38*m1^3*s12*s23*s45*s51^2 + 20*m1^3*s12*s23*s51^3 - 1/2*m1^3*s12*s34^3*s45 - m1^3*s12*s34^3*s51 - 1/2*m1^3*s12*s34^2*s45^2 - 9/2*m1^3*s12*s34^2*s45*s51 - 6*m1^3*s12*s34^2*s51^2 - 5/2*m1^3*s12*s34*s45^2*s51 - 12*m1^3*s12*s34*s45*s51^2 - 12*m1^3*s12*s34*s51^3 - 3*m1^3*s12*s45^2*s51^2 - 10*m1^3*s12*s45*s51^3 - 8*m1^3*s12*s51^4 - 2*m1^3*s23^3*s34^2 - 30*m1^3*s23^3*s34*s45 - 8*m1^3*s23^3*s34*s51 - 28*m1^3*s23^3*s45*s51 - 8*m1^3*s23^3*s51^2 + 4*m1^3*s23^2*s34^3 + 17*m1^3*s23^2*s34^2*s45 + 22*m1^3*s23^2*s34^2*s51 + 3*m1^3*s23^2*s34*s45^2 + 58*m1^3*s23^2*s34*s45*s51 + 40*m1^3*s23^2*s34*s51^2 - 6*m1^3*s23^2*s45^2*s51 + 48*m1^3*s23^2*s45*s51^2 + 24*m1^3*s23^2*s51^3 - 1/2*m1^3*s23*s34^4 - 3*m1^3*s23*s34^3*s45 - 5*m1^3*s23*s34^3*s51 + 7/2*m1^3*s23*s34^2*s45^2 - 16*m1^3*s23*s34^2*s45*s51 - 18*m1^3*s23*s34^2*s51^2 + 12*m1^3*s23*s34*s45^2*s51 - 28*m1^3*s23*s34*s45*s51^2 - 28*m1^3*s23*s34*s51^3 + m1^3*s23*s45^3*s51 + 10*m1^3*s23*s45^2*s51^2 - 16*m1^3*s23*s45*s51^3 - 16*m1^3*s23*s51^4 - 1/2*m1^3*s34^4*s45 - m1^3*s34^3*s45^2 - 7/2*m1^3*s34^3*s45*s51 - 1/2*m1^3*s34^2*s45^3 - 5*m1^3*s34^2*s45^2*s51 - 9*m1^3*s34^2*s45*s51^2 - 3/2*m1^3*s34*s45^3*s51 - 8*m1^3*s34*s45^2*s51^2 - 10*m1^3*s34*s45*s51^3 - m1^3*s45^3*s51^2 - 4*m1^3*s45^2*s51^3 - 4*m1^3*s45*s51^4 + m1^2*s12^2*s23^4 - 3*m1^2*s12^2*s23^3*s34 - 14*m1^2*s12^2*s23^3*s45 - 8*m1^2*s12^2*s23^3*s51 + 3/2*m1^2*s12^2*s23^2*s34^2 + 19/2*m1^2*s12^2*s23^2*s34*s45 + 12*m1^2*s12^2*s23^2*s34*s51 + 13/4*m1^2*s12^2*s23^2*s45^2 + 37*m1^2*s12^2*s23^2*s45*s51 + 19*m1^2*s12^2*s23^2*s51^2 - 3/2*m1^2*s12^2*s23*s34^2*s45 - 3*m1^2*s12^2*s23*s34^2*s51 - 2*m1^2*s12^2*s23*s34*s45^2 - 17*m1^2*s12^2*s23*s34*s45*s51 - 15*m1^2*s12^2*s23*s34*s51^2 - 13/2*m1^2*s12^2*s23*s45^2*s51 - 32*m1^2*s12^2*s23*s45*s51^2 - 18*m1^2*s12^2*s23*s51^3 + 1/4*m1^2*s12^2*s34^2*s45^2 + 3/2*m1^2*s12^2*s34^2*s45*s51 + 3/2*m1^2*s12^2*s34^2*s51^2 + 2*m1^2*s12^2*s34*s45^2*s51 + 15/2*m1^2*s12^2*s34*s45*s51^2 + 6*m1^2*s12^2*s34*s51^3 + 13/4*m1^2*s12^2*s45^2*s51^2 + 9*m1^2*s12^2*s45*s51^3 + 6*m1^2*s12^2*s51^4 - 2*m1^2*s12*s23^4*s34 - 4*m1^2*s12*s23^4*s51 + 8*m1^2*s12*s23^3*s34^2 + 39*m1^2*s12*s23^3*s34*s45 + 30*m1^2*s12*s23^3*s34*s51 + 44*m1^2*s12*s23^3*s45*s51 + 28*m1^2*s12*s23^3*s51^2 - 3/2*m1^2*s12*s23^2*s34^3 - 15*m1^2*s12*s23^2*s34^2*s45 - 20*m1^2*s12*s23^2*s34^2*s51 - 21/2*m1^2*s12*s23^2*s34*s45^2 - 71*m1^2*s12*s23^2*s34*s45*s51 - 58*m1^2*s12*s23^2*s34*s51^2 + 9*m1^2*s12*s23^2*s45^2*s51 - 72*m1^2*s12*s23^2*s45*s51^2 - 48*m1^2*s12*s23^2*s51^3 + 1/2*m1^2*s12*s23*s34^3*s45 + 3/2*m1^2*s12*s23*s34^3*s51 - 3*m1^2*s12*s23*s34^2*s45^2 + 19/2*m1^2*s12*s23*s34^2*s45*s51 + 12*m1^2*s12*s23*s34^2*s51^2 + 1/2*m1^2*s12*s23*s34*s45^3 - 31/2*m1^2*s12*s23*s34*s45^2*s51 + 28*m1^2*s12*s23*s34*s45*s51^2 + 30*m1^2*s12*s23*s34*s51^3 - 5/2*m1^2*s12*s23*s45^3*s51 - 17*m1^2*s12*s23*s45^2*s51^2 + 22*m1^2*s12*s23*s45*s51^3 + 24*m1^2*s12*s23*s51^4 + m1^2*s12*s34^3*s45^2 + 3/2*m1^2*s12*s34^3*s45*s51 + m1^2*s12*s34^2*s45^3 + 7*m1^2*s12*s34^2*s45^2*s51 + 15/2*m1^2*s12*s34^2*s45*s51^2 + 7/2*m1^2*s12*s34*s45^3*s51 + 14*m1^2*s12*s34*s45^2*s51^2 + 12*m1^2*s12*s34*s45*s51^3 + 5/2*m1^2*s12*s45^3*s51^2 + 8*m1^2*s12*s45^2*s51^3 + 6*m1^2*s12*s45*s51^4 + m1^2*s23^4*s34^2 + 4*m1^2*s23^4*s34*s51 + 4*m1^2*s23^4*s51^2 - 5*m1^2*s23^3*s34^3 - 31*m1^2*s23^3*s34^2*s45 - 26*m1^2*s23^3*s34^2*s51 - 54*m1^2*s23^3*s34*s45*s51 - 44*m1^2*s23^3*s34*s51^2 - 32*m1^2*s23^3*s45*s51^2 - 24*m1^2*s23^3*s51^3 + 1/4*m1^2*s23^2*s34^4 + 3/2*m1^2*s23^2*s34^3*s45 + 4*m1^2*s23^2*s34^3*s51 + 21/4*m1^2*s23^2*s34^2*s45^2 + 16*m1^2*s23^2*s34^2*s45*s51 + 19*m1^2*s23^2*s34^2*s51^2 - 10*m1^2*s23^2*s34*s45^2*s51 + 36*m1^2*s23^2*s34*s45*s51^2 + 36*m1^2*s23^2*s34*s51^3 - 19*m1^2*s23^2*s45^2*s51^2 + 20*m1^2*s23^2*s45*s51^3 + 24*m1^2*s23^2*s51^4 - 1/2*m1^2*s23*s34^4*s45 + 3*m1^2*s23*s34^3*s45^2 + 1/2*m1^2*s23*s34^3*s45*s51 - 5/2*m1^2*s23*s34^2*s45^3 + 17*m1^2*s23*s34^2*s45^2*s51 + 11*m1^2*s23*s34^2*s45*s51^2 - 7/2*m1^2*s23*s34*s45^3*s51 + 30*m1^2*s23*s34*s45^2*s51^2 + 22*m1^2*s23*s34*s45*s51^3 - m1^2*s23*s45^3*s51^2 + 16*m1^2*s23*s45^2*s51^3 + 12*m1^2*s23*s45*s51^4 + 1/4*m1^2*s34^4*s45^2 + 1/2*m1^2*s34^3*s45^3 + 3/2*m1^2*s34^3*s45^2*s51 + 1/4*m1^2*s34^2*s45^4 + 2*m1^2*s34^2*s45^3*s51 + 13/4*m1^2*s34^2*s45^2*s51^2 + 1/2*m1^2*s34*s45^4*s51 + 5/2*m1^2*s34*s45^3*s51^2 + 3*m1^2*s34*s45^2*s51^3 + 1/4*m1^2*s45^4*s51^2 + m1^2*s45^3*s51^3 + m1^2*s45^2*s51^4 - m1*s12^3*s23^4 + m1*s12^3*s23^3*s34 + 9/2*m1*s12^3*s23^3*s45 + 5*m1*s12^3*s23^3*s51 - 3/2*m1*s12^3*s23^2*s34*s45 - 3*m1*s12^3*s23^2*s34*s51 - 3/2*m1*s12^3*s23^2*s45^2 - 25/2*m1*s12^3*s23^2*s45*s51 - 9*m1*s12^3*s23^2*s51^2 + 1/2*m1*s12^3*s23*s34*s45^2 + 3*m1*s12^3*s23*s34*s45*s51 + 3*m1*s12^3*s23*s34*s51^2 + 3*m1*s12^3*s23*s45^2*s51 + 23/2*m1*s12^3*s23*s45*s51^2 + 7*m1*s12^3*s23*s51^3 - 1/2*m1*s12^3*s34*s45^2*s51 - 3/2*m1*s12^3*s34*s45*s51^2 - m1*s12^3*s34*s51^3 - 3/2*m1*s12^3*s45^2*s51^2 - 7/2*m1*s12^3*s45*s51^3 - 2*m1*s12^3*s51^4 + 4*m1*s12^2*s23^4*s34 + 6*m1*s12^2*s23^4*s51 - 3/2*m1*s12^2*s23^3*s34^2 - 12*m1*s12^2*s23^3*s34*s45 - 17*m1*s12^2*s23^3*s34*s51 - 20*m1*s12^2*s23^3*s45*s51 - 24*m1*s12^2*s23^3*s51^2 + 5/2*m1*s12^2*s23^2*s34^2*s45 + 3*m1*s12^2*s23^2*s34^2*s51 + 9*m1*s12^2*s23^2*s34*s45^2 + 49/2*m1*s12^2*s23^2*s34*s45*s51 + 22*m1*s12^2*s23^2*s34*s51^2 - 3*m1*s12^2*s23^2*s45^2*s51 + 33*m1*s12^2*s23^2*s45*s51^2 + 30*m1*s12^2*s23^2*s51^3 - 1/2*m1*s12^2*s23*s34^2*s45^2 - m1*s12^2*s23*s34^2*s45*s51 - 3/2*m1*s12^2*s23*s34^2*s51^2 - m1*s12^2*s23*s34*s45^3 + 3*m1*s12^2*s23*s34*s45^2*s51 - 8*m1*s12^2*s23*s34*s45*s51^2 - 9*m1*s12^2*s23*s34*s51^3 + 2*m1*s12^2*s23*s45^3*s51 + 8*m1*s12^2*s23*s45^2*s51^2 - 10*m1*s12^2*s23*s45*s51^3 - 12*m1*s12^2*s23*s51^4 - 1/2*m1*s12^2*s34^2*s45^3 - 2*m1*s12^2*s34^2*s45^2*s51 - 3/2*m1*s12^2*s34^2*s45*s51^2 - 5/2*m1*s12^2*s34*s45^3*s51 - 7*m1*s12^2*s34*s45^2*s51^2 - 9/2*m1*s12^2*s34*s45*s51^3 - 2*m1*s12^2*s45^3*s51^2 - 5*m1*s12^2*s45^2*s51^3 - 3*m1*s12^2*s45*s51^4 - 5*m1*s12*s23^4*s34^2 - 16*m1*s12*s23^4*s34*s51 - 12*m1*s12*s23^4*s51^2 + 1/2*m1*s12*s23^3*s34^3 + 25/2*m1*s12*s23^3*s34^2*s45 + 12*m1*s12*s23^3*s34^2*s51 + 31*m1*s12*s23^3*s34*s45*s51 + 40*m1*s12*s23^3*s34*s51^2 + 26*m1*s12*s23^3*s45*s51^2 + 36*m1*s12*s23^3*s51^3 - 3/2*m1*s12*s23^2*s34^3*s45 - 1/2*m1*s12*s23^2*s34^3*s51 - 21/2*m1*s12*s23^2*s34^2*s45^2 - 15/2*m1*s12*s23^2*s34^2*s45*s51 - 7*m1*s12*s23^2*s34^2*s51^2 - 19*m1*s12*s23^2*s34*s45*s51^2 - 24*m1*s12*s23^2*s34*s51^3 + 18*m1*s12*s23^2*s45^2*s51^2 - 10*m1*s12*s23^2*s45*s51^3 - 24*m1*s12*s23^2*s51^4 + 3/2*m1*s12*s23*s34^3*s45^2 + m1*s12*s23*s34^3*s45*s51 + 7/2*m1*s12*s23*s34^2*s45^3 - 2*m1*s12*s23*s34^2*s45^2*s51 - 3*m1*s12*s23*s34^2*s45*s51^2 + 4*m1*s12*s23*s34*s45^3*s51 - 37/2*m1*s12*s23*s34*s45^2*s51^2 - 16*m1*s12*s23*s34*s45*s51^3 + 1/2*m1*s12*s23*s45^3*s51^2 - 15*m1*s12*s23*s45^2*s51^3 - 12*m1*s12*s23*s45*s51^4 - 1/2*m1*s12*s34^3*s45^3 - 1/2*m1*s12*s34^3*s45^2*s51 - 1/2*m1*s12*s34^2*s45^4 - 5/2*m1*s12*s34^2*s45^3*s51 - 2*m1*s12*s34^2*s45^2*s51^2 - m1*s12*s34*s45^4*s51 - 7/2*m1*s12*s34*s45^3*s51^2 - 5/2*m1*s12*s34*s45^2*s51^3 - 1/2*m1*s12*s45^4*s51^2 - 3/2*m1*s12*s45^3*s51^3 - m1*s12*s45^2*s51^4 + 2*m1*s23^4*s34^3 + 10*m1*s23^4*s34^2*s51 + 16*m1*s23^4*s34*s51^2 + 8*m1*s23^4*s51^3 - 6*m1*s23^3*s34^3*s45 - m1*s23^3*s34^3*s51 - 9*m1*s23^3*s34^2*s45*s51 - 8*m1*s23^3*s34^2*s51^2 - 14*m1*s23^3*s34*s45*s51^2 - 20*m1*s23^3*s34*s51^3 - 8*m1*s23^3*s45*s51^3 - 16*m1*s23^3*s51^4 + 6*m1*s23^2*s34^3*s45^2 + 2*m1*s23^2*s34^3*s45*s51 + 6*m1*s23^2*s34^2*s45^2*s51 - 12*m1*s23^2*s34*s45^2*s51^2 - 14*m1*s23^2*s34*s45*s51^3 - 12*m1*s23^2*s45^2*s51^3 - 12*m1*s23^2*s45*s51^4 - 2*m1*s23*s34^3*s45^3 - m1*s23*s34^3*s45^2*s51 - 7*m1*s23*s34^2*s45^3*s51 - 4*m1*s23*s34^2*s45^2*s51^2 - 8*m1*s23*s34*s45^3*s51^2 - 5*m1*s23*s34*s45^2*s51^3 - 3*m1*s23*s45^3*s51^3 - 2*m1*s23*s45^2*s51^4 + 1/4*s12^4*s23^4 - 1/2*s12^4*s23^3*s45 - s12^4*s23^3*s51 + 1/4*s12^4*s23^2*s45^2 + 3/2*s12^4*s23^2*s45*s51 + 3/2*s12^4*s23^2*s51^2 - 1/2*s12^4*s23*s45^2*s51 - 3/2*s12^4*s23*s45*s51^2 - s12^4*s23*s51^3 + 1/4*s12^4*s45^2*s51^2 + 1/2*s12^4*s45*s51^3 + 1/4*s12^4*s51^4 - 1/2*s12^3*s23^4*s34 - 2*s12^3*s23^4*s51 + 3/2*s12^3*s23^3*s34*s45 + 3/2*s12^3*s23^3*s34*s51 + 5/2*s12^3*s23^3*s45*s51 + 6*s12^3*s23^3*s51^2 - 3/2*s12^3*s23^2*s34*s45^2 - 5/2*s12^3*s23^2*s34*s45*s51 - 3/2*s12^3*s23^2*s34*s51^2 - 9/2*s12^3*s23^2*s45*s51^2 - 6*s12^3*s23^2*s51^3 + 1/2*s12^3*s23*s34*s45^3 + 1/2*s12^3*s23*s34*s45^2*s51 + 1/2*s12^3*s23*s34*s45*s51^2 + 1/2*s12^3*s23*s34*s51^3 - 1/2*s12^3*s23*s45^3*s51 - s12^3*s23*s45^2*s51^2 + 3/2*s12^3*s23*s45*s51^3 + 2*s12^3*s23*s51^4 + 1/2*s12^3*s34*s45^3*s51 + s12^3*s34*s45^2*s51^2 + 1/2*s12^3*s34*s45*s51^3 + 1/2*s12^3*s45^3*s51^2 + s12^3*s45^2*s51^3 + 1/2*s12^3*s45*s51^4 + 1/4*s12^2*s23^4*s34^2 + 3*s12^2*s23^4*s34*s51 + 6*s12^2*s23^4*s51^2 - s12^2*s23^3*s34^2*s45 - 1/2*s12^2*s23^3*s34^2*s51 - 11/2*s12^2*s23^3*s34*s45*s51 - 6*s12^2*s23^3*s34*s51^2 - 3*s12^2*s23^3*s45*s51^2 - 12*s12^2*s23^3*s51^3 + 3/2*s12^2*s23^2*s34^2*s45^2 + 3/2*s12^2*s23^2*s34^2*s45*s51 + 1/4*s12^2*s23^2*s34^2*s51^2 + 5/2*s12^2*s23^2*s34*s45^2*s51 + 3*s12^2*s23^2*s34*s45*s51^2 + 3*s12^2*s23^2*s34*s51^3 - 11/4*s12^2*s23^2*s45^2*s51^2 + 6*s12^2*s23^2*s51^4 - s12^2*s23*s34^2*s45^3 - 3/2*s12^2*s23*s34^2*s45^2*s51 - 1/2*s12^2*s23*s34^2*s45*s51^2 - 1/2*s12^2*s23*s34*s45^3*s51 + 2*s12^2*s23*s34*s45^2*s51^2 + 5/2*s12^2*s23*s34*s45*s51^3 + 1/2*s12^2*s23*s45^3*s51^2 + 7/2*s12^2*s23*s45^2*s51^3 + 3*s12^2*s23*s45*s51^4 + 1/4*s12^2*s34^2*s45^4 + 1/2*s12^2*s34^2*s45^3*s51 + 1/4*s12^2*s34^2*s45^2*s51^2 + 1/2*s12^2*s34*s45^4*s51 + s12^2*s34*s45^3*s51^2 + 1/2*s12^2*s34*s45^2*s51^3 + 1/4*s12^2*s45^4*s51^2 + 1/2*s12^2*s45^3*s51^3 + 1/4*s12^2*s45^2*s51^4 - s12*s23^4*s34^2*s51 - 6*s12*s23^4*s34*s51^2 - 8*s12*s23^4*s51^3 + 3*s12*s23^3*s34^2*s45*s51 + s12*s23^3*s34^2*s51^2 + 4*s12*s23^3*s34*s45*s51^2 + 6*s12*s23^3*s34*s51^3 - 2*s12*s23^3*s45*s51^3 + 8*s12*s23^3*s51^4 - 3*s12*s23^2*s34^2*s45^2*s51 - 2*s12*s23^2*s34^2*s45*s51^2 + 4*s12*s23^2*s34*s45*s51^3 + 3*s12*s23^2*s45^2*s51^3 + 6*s12*s23^2*s45*s51^4 + s12*s23*s34^2*s45^3*s51 + s12*s23*s34^2*s45^2*s51^2 + 2*s12*s23*s34*s45^3*s51^2 + 2*s12*s23*s34*s45^2*s51^3 + s12*s23*s45^3*s51^3 + s12*s23*s45^2*s51^4 + s23^4*s34^2*s51^2 + 4*s23^4*s34*s51^3 + 4*s23^4*s51^4 - 2*s23^3*s34^2*s45*s51^2 + 2*s23^3*s34*s45*s51^3 + 4*s23^3*s45*s51^4 + s23^2*s34^2*s45^2*s51^2 + 2*s23^2*s34*s45^2*s51^3 + s23^2*s45^2*s51^4
+codim: 1, face: 9/15, weights: [0, 0, 0, 1, 0, 0], discriminant: m1*s12 - m1*s45 - s12^2 - s12*s23 + s12*s45
+codim: 1, face: 10/15, weights: [0, 1, 1, 1, 1, 0], discriminant: 1
+codim: 1, face: 11/15, weights: [0, 0, 0, 0, 0, -1], discriminant: s23 + s34 - s51
+codim: 1, face: 12/15, weights: [1, 1, 1, 1, 1, 1], discriminant: 1
+codim: 1, face: 13/15, weights: [0, 1, 0, 0, 0, 0], discriminant: m1*s23 - m1*s51 - s23*s51 + s45*s51 + s51^2
+codim: 1, face: 14/15, weights: [0, 0, 0, -1, -1, -1], discriminant: 1
+codim: 1, face: 15/15, weights: [1, 0, 0, 0, 0, 0], discriminant: s23 + s34 - s51
+codim: 0, face: 1/1, weights: [0, 0, 0, 0, 0, 0], discriminant: 1

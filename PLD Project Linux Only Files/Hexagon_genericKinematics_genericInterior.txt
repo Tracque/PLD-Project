@@ -1,0 +1,14 @@
+Hexagon_genericKinematics_genericInterior
+
+edges: [[1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 1]]
+nodes: [1, 2, 3, 4, 5, 6]
+internal_masses: Variable[M1, M2, M3, M4, M5, M6]
+external_masses: Variable[m1, m2, m3, m4, m5, m6]
+
+schwinger parameters: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃, α₄, α₅, α₆]
+kinematic variables: QQMPolyRingElem[M1, M2, M3, M4, M5, M6, m1, m2, m3, m4, m5, m6, s12, s123, s23, s234, s34, s345, s45, s56, s61]
+
+U: α₁ + α₂ + α₃ + α₄ + α₅ + α₆
+F: -M1*α₁^2 + (-M1 - M2 + m2)*α₁*α₂ + (-M1 - M3 + s23)*α₁*α₃ + (-M1 - M4 + s234)*α₁*α₄ + (-M1 - M5 + s61)*α₁*α₅ + (-M1 - M6 + m1)*α₁*α₆ - M2*α₂^2 + (-M2 - M3 + m3)*α₂*α₃ + (-M2 - M4 + s34)*α₂*α₄ + (-M2 - M5 + s345)*α₂*α₅ + (-M2 - M6 + s12)*α₂*α₆ - M3*α₃^2 + (-M3 - M4 + m4)*α₃*α₄ + (-M3 - M5 + s45)*α₃*α₅ + (-M3 - M6 + s123)*α₃*α₆ - M4*α₄^2 + (-M4 - M5 + m5)*α₄*α₅ + (-M4 - M6 + s56)*α₄*α₆ - M5*α₅^2 + (-M5 - M6 + m6)*α₅*α₆ - M6*α₆^2
+
+discriminants: Any[[1]]

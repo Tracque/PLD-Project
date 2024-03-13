@@ -1,0 +1,14 @@
+FivePoint_2Loop
+
+edges: [[1, 3], [2, 3], [3, 4], [4, 5], [5, 2], [5, 1]]
+nodes: [1, 2, 3, 4, 5]
+internal_masses: [0, 0, 0, 0, 0, 0]
+external_masses: Expression[m1, 0, 0, 0, 0]
+
+schwinger parameters: AbstractAlgebra.Generic.LaurentMPolyWrap{QQMPolyRingElem, AbstractAlgebra.Generic.MPoly{QQMPolyRingElem}, AbstractAlgebra.Generic.LaurentMPolyWrapRing{QQMPolyRingElem, AbstractAlgebra.Generic.MPolyRing{QQMPolyRingElem}}}[α₁, α₂, α₃, α₄, α₅, α₆]
+kinematic variables: QQMPolyRingElem[m1, s12, s23, s34, s45, s51]
+
+U: α₁*α₂ + α₁*α₃ + α₁*α₄ + α₁*α₅ + α₂*α₃ + α₂*α₄ + α₂*α₆ + α₃*α₅ + α₃*α₆ + α₄*α₅ + α₄*α₆ + α₅*α₆
+F: s34*α₁*α₂*α₄ + m1*α₁*α₂*α₆ + s23*α₁*α₃*α₅ + m1*α₁*α₃*α₆ + s51*α₁*α₄*α₅ + m1*α₁*α₄*α₆ + m1*α₁*α₅*α₆ + (m1 - s12 - s23 + s45)*α₂*α₃*α₆ + (m1 - s12 + s34 - s51)*α₂*α₄*α₆ + s45*α₃*α₅*α₆
+
+discriminants: Any[[1]]
